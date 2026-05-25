@@ -1,0 +1,721 @@
+---
+title: Curso de Introdução e Contribuição ao Código Aberto
+excerpt: Este curso abrangente irá guiá-lo pelo fascinante mundo do código aberto e ajudá-lo a se tornar um contribuidor ativo.
+image: "https://images.unsplash.com/photo-1647166545674-ce28ce93bdca?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+tags: ["Open Source", "Código Aberto", "Comunidade", "Curso"]
+date: "2024-02-17"
+---
+
+![Praveen Thirumurugan](https://images.unsplash.com/photo-1647166545674-ce28ce93bdca?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+Esse curso foi desenvolvido pela [Kalify Inc](https://kalify.vercel.app/) e publicado em 12 de Maio de 2023.
+
+## 1. Introdução
+
+Bem-vindo ao curso "Introdução ao Código Aberto"! Este curso abrangente irá guiá-lo pelo fascinante mundo do código aberto e ajudá-lo a se tornar um contribuidor ativo. Ao final deste curso, você deve ter uma compreensão sólida de como encontrar, participar e contribuir para projetos de código aberto, bem como de como desenvolver seu currículo de código aberto. Mas antes, vamos preparar o terreno discutindo os pré-requisitos, objetivos e expectativas deste curso.
+
+<!--truncate-->
+
+### Pré-requisitos
+
+Antes de mergulhar no mundo do código aberto, é essencial ter uma compreensão básica dos conceitos de programação e alguma experiência trabalhando com código. Embora o curso forneça exemplos e demonstrações, você obterá o máximo proveito do material se já tiver algum conhecimento prévio.
+
+Além disso, este curso pressupõe que você está familiarizado com Git e GitHub. Git é um sistema de controle de versão amplamente utilizado, e GitHub é uma plataforma popular para hospedar e colaborar em repositórios Git. Se você ainda não está familiarizado com Git e GitHub, recomendamos que você reserve um tempo para aprender o básico antes de começar este curso.
+
+### Objetivos
+
+Ao longo deste curso, nossos principais objetivos são ajudá-lo a:
+
+1. **Compreender o Código Aberto e seus Benefícios**: Vamos explorar o conceito de código aberto, sua história e os muitos benefícios de contribuir para projetos de código aberto.
+2. **Aprender a Encontrar Projetos de Código Aberto**: Descobrir projetos que se encaixem em seus interesses e habilidades é crucial para uma experiência de código aberto enriquecedora. Apresentaremos ferramentas e técnicas para encontrar projetos para os quais você possa contribuir.
+3. **Dominar Ferramentas e Processos de Contribuição**: Forneceremos uma visão geral das ferramentas e processos essenciais necessários para uma colaboração de código aberto bem-sucedida, como controle de versão, revisão de código e plataformas de comunicação.
+4. **Ganhar Experiência Prática**: Seguindo exemplos e demonstrações, você terá a oportunidade de praticar suas habilidades e ganhar confiança em sua capacidade de contribuir para projetos de código aberto.
+5. **Desenvolver seu Currículo de Código Aberto**: Destacar suas contribuições de código aberto é essencial para construir sua reputação na comunidade e demonstrar sua experiência a potenciais empregadores ou clientes. Discutiremos estratégias para desenvolver e manter seu currículo de código aberto.
+
+### Expectativas
+
+Este curso foi projetado para fornecer uma base sólida na colaboração de código aberto. Embora cubramos uma variedade de tópicos e forneçamos exemplos, demonstrações e oportunidades de prática, é essencial manter expectativas realistas sobre o que você pode realizar durante o curso.
+
+1. **A Prática é Crucial**: Aprender sobre código aberto é apenas o começo; para realmente desenvolver suas habilidades e se tornar um contribuidor competente, você precisará praticar regularmente. Lembre-se de que quanto mais você contribuir para projetos de código aberto, mais aprenderá e crescerá como desenvolvedor.
+
+2. **Paciência é a Chave**: Dominar a colaboração de código aberto leva tempo e esforço. Não desanime se encontrar desafios ao longo do caminho; lembre-se de que cada contribuição, por menor que seja, é valiosa e ajuda a melhorar o projeto.
+
+3. **Envolvimento com a Comunidade**: Código aberto é mais do que apenas código; trata-se das pessoas que colaboram e contribuem para os projetos. Interaja com a comunidade fazendo perguntas, compartilhando seu conhecimento e apoiando os outros. Construir relacionamentos com outros contribuidores melhorará sua experiência de código aberto e ajudará você a crescer como desenvolvedor.
+
+4. **Aprendizado Contínuo**: O código aberto é um campo em constante evolução, com novos projetos, ferramentas e tecnologias surgindo o tempo todo. Mantenha-se curioso e aberto ao aprendizado e aproveite recursos como documentação, tutoriais e fóruns comunitários para aprofundar seu conhecimento e se manter atualizado sobre os últimos desenvolvimentos.
+
+5. **Cultivar uma Mentalidade de Crescimento**: Enfrente os desafios e oportunidades que surgem com a colaboração de código aberto. Adote uma mentalidade de crescimento focada na aprendizagem, melhoria e resiliência. Ao considerar os obstáculos como oportunidades de crescimento, você estará melhor preparado para navegar no complexo mundo do código aberto e ter sucesso em suas contribuições.
+
+### Estrutura do Curso
+
+Este curso está dividido em vários capítulos, cada um projetado para cobrir um aspecto específico da colaboração de código aberto:
+
+1. **Introdução:** Começaremos preparando o terreno para a sua jornada de código aberto, discutindo pré-requisitos, objetivos e expectativas.
+2. **O que é Código Aberto?**: Neste capítulo, exploraremos a definição de código aberto e sua história, fornecendo uma base sólida para compreender o contexto da colaboração de código aberto.
+3. **Por que o Código Aberto?**: Abordaremos os benefícios do código aberto, incluindo o acesso ao conhecimento, à comunidade e ao desenvolvimento de habilidades.
+4. **Ferramentas para o Sucesso:** Este capítulo apresentará as ferramentas essenciais para uma colaboração de código aberto bem-sucedida, incluindo GitHub, Git, CodeSee, VS Code e Discord.
+5. **Como Contribuir para o Código Aberto**: Neste capítulo, discutiremos o processo de encontrar projetos para trabalhar, enviar contribuições, integrar-se a um novo projeto e o que esperar após o envio de sua contribuição.
+6. **A Receita Secreta:** Este capítulo revelará estratégias e técnicas para começar, ganhar terreno em suas contribuições e desenvolver seu currículo de código aberto.
+7. **Conclusão:** Concluiremos o curso com pontos-chave e discutiremos os próximos passos em sua jornada de código aberto.
+
+Ao longo deste curso, forneceremos exemplos e demonstrações para ajudar a ilustrar os conceitos-chave e oferecer oportunidades práticas de aprendizado. Sempre que possível, apresentaremos projetos e ferramentas de código aberto reais, como a [Kalify](https://kalify.vercel.app/#projects), para mostrar como aplicar as habilidades que você adquiriu.
+
+Lembre-se de que, embora esses exemplos e demonstrações sejam projetados para orientá-lo e inspirá-lo, sua própria jornada de código aberto pode ser diferente, dependendo de seus interesses, habilidades e projetos escolhidos. Use os exemplos e demonstrações como ponto de partida, mas não tenha medo de explorar outros projetos, ferramentas e recursos à medida que continua a aprender e crescer.
+
+### Vamos Começar 🚀
+
+Agora que preparamos o terreno, é hora de embarcar em sua jornada de código aberto! No próximo capítulo, entraremos na definição de código aberto e exploraremos sua história, estabelecendo as bases para uma compreensão mais profunda da colaboração de código aberto. Vamos lá!
+
+## 2. O que é código aberto?
+
+Neste capítulo, aprofundaremos o conceito de código aberto, sua definição e história. Adquirir uma compreensão profunda do código aberto ajudará você a apreciar o contexto no qual colaborará e contribuirá.
+
+### Definição
+
+O código aberto se refere a um tipo de software cujo código-fonte é disponibilizado ao público, permitindo que qualquer pessoa visualize, use, modifique e distribua o código. Isso contrasta com o software proprietário, onde o código-fonte é mantido em segredo e apenas o programa compilado é distribuído. O princípio fundamental do código aberto é a ideia de colaboração e a crença de que o compartilhamento de conhecimento e recursos leva a software melhor, mais confiável e mais inovador.
+
+O software de código aberto é construído com base na ideia de que, quando muitas pessoas trabalham juntas, podem criar algo maior do que a soma de suas partes. Os contribuintes para projetos de código aberto vêm de diversas origens e trazem uma ampla gama de habilidades, experiências e perspectivas para a mesa. Essa diversidade de pensamento e expertise leva a software mais robusto, inovador e confiável.
+
+#### Licenças de Código Aberto
+
+Para que um software seja considerado de código aberto, ele deve ser publicado sob uma licença que conceda aos usuários o direito de acessar, modificar e distribuir o código-fonte. Existem muitas licenças de código aberto disponíveis, cada uma com seu próprio conjunto de termos e condições. Algumas licenças de código aberto populares incluem a Licença MIT, a Licença Pública Geral GNU (GPL) e a Licença Apache.
+
+Essas licenças são cruciais porque garantem que o software permaneça aberto e acessível a todos. Ao conceder aos usuários o direito de visualizar, modificar e distribuir o código, as licenças de código aberto promovem uma cultura de colaboração, inovação e compartilhamento de conhecimento.
+
+### Breve História do Código Aberto
+
+A ideia de compartilhar livremente conhecimento e recursos existe há séculos, mas o movimento de código aberto, conforme o conhecemos hoje, remonta aos primórdios da computação.
+
+#### Primeiros Passos
+
+Nas décadas de 1950 e 1960, o software de computador estava frequentemente associado ao hardware de computador, e o código-fonte era compartilhado livremente entre pesquisadores e desenvolvedores. Durante esse período, era comum que programadores colaborassem, compartilhassem ideias e modificassem o código uns dos outros para se aprimorarem e inovarem.
+
+No entanto, nas décadas de 1970 e 1980, à medida que a indústria de software começou a se expandir e se comercializar, as empresas começaram a considerar o software como um ativo valioso e começaram a restringir o acesso ao código-fonte. Essa mudança marcou o início da divisão entre o software proprietário e o movimento de código aberto emergente.
+
+#### O Surgimento do Software Livre
+
+Em resposta às crescentes restrições ao acesso e distribuição de software, o cientista da computação Richard Stallman fundou a Free Software Foundation (FSF) em 1985. O objetivo da FSF era promover o desenvolvimento e o uso de software livre, definido como software que concede aos usuários a liberdade de executar, estudar, compartilhar e modificar o código. Esse conceito é semelhante ao código aberto, mas enfatiza ainda mais os aspectos éticos e políticos da liberdade do software.
+
+Stallman e a FSF posteriormente desenvolveram o projeto GNU (que significa "GNU's Not Unix"), um esforço ambicioso para criar um sistema operacional totalmente livre e aberto. Embora o projeto GNU tenha fornecido muitos componentes essenciais, ele ainda carecia de uma peça fundamental: um núcleo livre e aberto, o componente central de um sistema operacional.
+
+#### A Chegada do Linux
+
+Em 1991, um estudante de ciência da computação finlandês chamado Linus Torvalds desenvolveu um núcleo livre e de código aberto chamado Linux. Quando combinado com o sistema GNU, o Linux formou um sistema operacional completo, gratuito e de código aberto que ainda é amplamente utilizado hoje. O sucesso do Linux contribuiu para popularizar o conceito de código aberto e desencadeou uma onda de novos projetos, ferramentas e tecnologias.
+
+#### A Iniciativa de Código Aberto
+
+Em 1998, Christine Peterson, diretora executiva da Foresight, inventou o termo "software de código aberto" como um [esforço deliberado para tornar este campo... mais compreensível para novatos e empresas](https://opensource.com/article/18/2/coining-term-open-source-software). Ela, juntamente com Eric S. Raymond, Bruce Perens e outros desenvolvedores e defensores, posteriormente fundou a Open Source Initiative (OSI) para promover melhor esse conceito. A partir daí, a OSI desenvolveu a definição de código aberto, um conjunto de critérios que o software deve atender para ser considerado de código aberto. Esses critérios incluem distribuição gratuita, disponibilidade do código-fonte, trabalhos derivados e integridade da licença.
+
+Os esforços da OSI para promover o código aberto despertaram um novo interesse e adoção por parte de indivíduos e organizações. Hoje, o software de código aberto é amplamente utilizado em várias indústrias, e muitas empresas de tecnologia conhecidas, como Google, IBM e Microsoft, apoiam e contribuem ativamente para projetos de código aberto.
+
+#### O Crescimento das Comunidades de Código Aberto
+
+À medida que o movimento de código aberto ganhava força, muitas comunidades e plataformas surgiram para facilitar a colaboração e o compartilhamento de conhecimento. Aqui estão alguns exemplos notáveis:
+
+- **SourceForge**: Lançada em 1999, a SourceForge foi uma das primeiras plataformas da web a fornecer ferramentas e recursos para que desenvolvedores colaborassem em projetos de código aberto. Em seu auge, a SourceForge hospedava milhares de projetos e atraía milhões de usuários.
+- **GitHub**: Fundado em 2008, o GitHub rapidamente se tornou a plataforma de referência para hospedagem e colaboração em repositórios Git. Hoje, o GitHub hospeda milhões de projetos de código aberto e conta com uma comunidade dinâmica de colaboradores de todo o mundo.
+- **GitLab**: Lançado em 2011 como uma alternativa de código aberto ao GitHub, o GitLab oferece uma série de ferramentas e recursos para gerenciar repositórios Git, rastrear problemas e facilitar a colaboração.
+
+Essas plataformas desempenharam um papel crucial no estímulo ao crescimento das comunidades de código aberto e na facilitação da contribuição e colaboração de desenvolvedores em projetos.
+
+#### O Aumento do Envolvimento das Empresas
+
+Nos últimos anos, o envolvimento das empresas em projetos de código aberto aumentou significativamente. Muitas empresas reconhecem agora o valor do código aberto e contribuem ativamente para diversos projetos e os apoiam. Algumas empresas até mesmo tornaram de código aberto suas próprias ferramentas e tecnologias internas, como o TensorFlow do Google e o React do Facebook.
+
+Esse envolvimento significativo das empresas não apenas aumentou os recursos e o apoio a projetos de código aberto, mas também ajudou a legitimar o movimento de código aberto e a promover sua adoção em larga escala.
+
+### A Evolução do Código Aberto
+
+O movimento de código aberto percorreu um longo caminho desde seus primórdios. Hoje, o software livre está em toda parte, impulsionando tanto sites quanto aplicativos móveis, bem como inteligência artificial e algoritmos de aprendizado de máquina.
+
+À medida que o código aberto continua a evoluir, novos projetos, ferramentas e tecnologias estão constantemente surgindo, expandindo os limites do possível e estimulando a inovação em uma ampla gama de indústrias.
+
+A crescente popularidade do código aberto também deu origem a um ecossistema florescente de conferências, encontros e comunidades online onde desenvolvedores podem se reunir para aprender, colaborar e compartilhar conhecimentos. Ao participar desses eventos e se envolver com a comunidade de código aberto, você terá a oportunidade de desenvolver suas habilidades, construir sua rede e se manter atualizado sobre os últimos desenvolvimentos nessa área.
+
+No próximo capítulo, exploraremos os muitos benefícios da contribuição para projetos de código aberto e veremos como a colaboração de código aberto pode ajudá-lo a acessar conhecimentos, se conectar a uma comunidade e desenvolver habilidades valiosas.
+
+## 3. Por que o código aberto?
+
+No capítulo anterior, exploramos o conceito de código aberto e sua história. Agora, vamos analisar os inúmeros benefícios de participar de projetos de código aberto. Ao compreender os benefícios da colaboração de código aberto, você estará melhor preparado para aproveitar as oportunidades que ela oferece e tirar o máximo proveito de sua jornada no mundo do código aberto.
+
+### Acesso ao Conhecimento
+
+Um dos principais benefícios de contribuir para projetos de código aberto é a oportunidade de acessar uma variedade de conhecimentos e recursos. Como colaborador em um projeto de código aberto, você poderá:
+
+1. **Aprender com projetos reais**: Projetos de código aberto oferecem uma oportunidade única para estudar e aprender com código real. Ao examinar como outros desenvolvedores lidaram com problemas complexos, você pode adquirir conhecimento sobre melhores práticas, padrões de design e técnicas avançadas que pode aplicar em seus próprios projetos.
+
+2. **Acessar diversas perspectivas**: Projetos de código aberto atraem contribuidores de todo o mundo, cada um trazendo um conjunto único de habilidades, experiências e pontos de vista. Colaborando com outros, você pode ampliar sua compreensão de diferentes tecnologias, linguagens de programação e metodologias de desenvolvimento.
+
+3. **Manter-se atualizado com as últimas tendências**: A comunidade de código aberto está frequentemente na vanguarda da inovação, com o constante surgimento de novos projetos, ferramentas e tecnologias. Ao participar de projetos de código aberto, você pode se manter atualizado com os últimos desenvolvimentos em sua área e descobrir tendências emergentes e melhores práticas.
+
+4. **Acessar recursos de alta qualidade**: A comunidade de código aberto é conhecida por seu compromisso em produzir documentação, tutoriais e outros recursos educacionais de alta qualidade. Ao aproveitar esse tesouro de conhecimento, você pode aprofundar sua compreensão de diversas tecnologias e conceitos, continuando a evoluir como desenvolvedor.
+
+### Acesso à Comunidade
+
+A comunidade de código aberto é uma rede global diversificada de desenvolvedores, entusiastas e defensores que compartilham uma paixão comum pela colaboração e compartilhamento de conhecimento. Contribuindo para projetos de código aberto, você pode:
+
+1. **Conectar-se com pessoas de ideias semelhantes**: Projetos de código aberto oferecem a oportunidade de colaborar com outras pessoas que compartilham seus interesses e paixões. Trabalhando juntos, você pode estabelecer laços e amizades duradouras que podem enriquecer sua vida pessoal e profissional.
+
+2. **Expandir sua rede de contatos**: A comunidade de código aberto é vasta e interconectada, com inúmeros projetos, eventos e fóruns nos quais os desenvolvedores se reúnem para colaborar e compartilhar conhecimento. Participando dessas atividades, você pode expandir sua rede profissional e se conectar com mentores, colaboradores e até mesmo potenciais empregadores.
+
+3. **Desenvolver habilidades de comunicação e colaboração**: Trabalhar em projetos de código aberto muitas vezes envolve colaboração com outras pessoas, seja remotamente ou pessoalmente. Isso pode ajudá-lo a desenvolver habilidades essenciais de comunicação e colaboração, como fornecer feedback construtivo, resolver conflitos e trabalhar eficazmente em equipe.
+
+4. **Contribuir para a comunidade**: Contribuir para projetos de código aberto é uma maneira de retribuir à comunidade que lhe forneceu conhecimentos e recursos valiosos. Compartilhando suas habilidades e experiência, você pode contribuir para o crescimento e o sucesso do movimento de código aberto.
+
+### Acesso às Habilidades
+
+Contribuir para projetos de código aberto pode ajudá-lo a desenvolver uma ampla variedade de habilidades técnicas e não técnicas altamente valorizadas no mercado de trabalho. Como colaborador em projetos de código aberto, você terá a oportunidade de:
+
+1. **Melhorar suas habilidades de programação**: Trabalhar em projetos reais é uma excelente maneira de aprimorar suas habilidades de programação e aprofundar seu entendimento de diversas tecnologias e linguagens. Resolver problemas difíceis e aprender com outros contribuidores o ajudará a se tornar um desenvolvedor mais competente.
+
+2. **Adquirir experiência com novas tecnologias**: Projetos de código aberto frequentemente envolvem tecnologias e ferramentas avançadas que podem não ser usadas em seu trabalho ou estudos diários. Ao contribuir para esses projetos, você pode ganhar experiência prática com novas tecnologias e expandir seu conjunto de habilidades.
+
+3. **Construir seu portfólio**: Contribuir para projetos de código aberto permite que você crie um portfólio público de seu trabalho, destacando suas habilidades e experiência para potenciais empregadores. Um sólido portfólio de contribuições para projetos de código aberto pode ajudá-lo a se destacar no mercado de trabalho e demonstrar seu compromisso com a aprendizagem contínua e o desenvolvimento profissional.
+
+4. **Desenvolver habilidades de resolução de problemas e pensamento crítico**: Trabalhar em projetos de código aberto muitas vezes envolve resolver problemas complexos e tomar decisões importantes. Ao enfrentar esses desafios, você pode desenvolver habilidades valiosas de resolução de problemas e pensamento crítico que podem ser aplicadas em várias áreas de sua vida e carreira.
+
+5. **Aprender gerenciamento de projetos e organização**: Contribuir para projetos de código aberto pode expô-lo a vários aspectos do gerenciamento e organização de projetos, como definir prioridades, gerenciar prazos e coordenar com membros da equipe. Essas habilidades podem ser valiosas em sua vida pessoal e profissional, ajudando-o a se tornar uma pessoa mais eficiente e organizada.
+
+6. **Desenvolver habilidades de liderança e mentoria**: À medida que você ganha experiência na comunidade de código aberto, pode se encontrar em posição de mentor e guia para novos contribuidores. Assumindo esses papéis de liderança, você pode desenvolver habilidades essenciais, como comunicação, empatia e delegação, que podem ajudá-lo a ter sucesso em sua carreira e vida pessoal.
+
+### Benefícios Adicionais
+
+Além dos benefícios mencionados anteriormente, a participação em projetos de código aberto também pode oferecer vários outros benefícios, como:
+
+1. **Amplas oportunidades de emprego**: Muitos empregadores valorizam a experiência em código aberto e estão ativamente em busca de candidatos que tenham demonstrado contribuições significativas para projetos de código aberto. Ao destacar suas contribuições, você aumenta suas chances de conseguir o emprego dos seus sonhos ou avançar em sua carreira.
+
+2. **Realização pessoal**: Contribuir para projetos de código aberto pode ser uma experiência gratificante, tanto pessoal quanto profissionalmente. Ao compartilhar suas habilidades e conhecimentos, você pode fazer uma diferença tangível no mundo e contribuir para algo maior do que você.
+
+3. **Oportunidades de reconhecimento**: Projetos de código aberto frequentemente chamam a atenção de líderes do setor, influenciadores e mídia. Ao fazer contribuições significativas para projetos líderes, você pode ser reconhecido e estabelecer-se como um especialista em sua área.
+
+No próximo capítulo, discutiremos as ferramentas e recursos essenciais de que você precisará para ter sucesso em sua jornada no código aberto, incluindo GitHub, Git, CodeSee, VS Code e Discord. Ao se familiarizar com essas ferramentas, você estará melhor preparado para colaborar com os outros, gerenciar seus projetos e contribuir efetivamente para projetos de código aberto.
+
+## 4. Ferramentas para o Sucesso
+
+Para ter sucesso em sua jornada no código aberto, é essencial se familiarizar com as ferramentas e plataformas comumente usadas pela comunidade. Essas ferramentas ajudarão você a colaborar de forma eficaz, gerenciar seus projetos e contribuir para projetos de código aberto. Neste capítulo, abordaremos as seguintes ferramentas essenciais para a colaboração em código aberto:
+
+- GitHub e Git
+- CodeSee
+- VS Code (o editor)
+- Discord
+
+### Pré-Requisitos
+
+Antes de seguir este guia, você deve realizar as seguintes ações:
+
+- Criar uma [conta no GitHub](https://github.com/)
+- Baixar o [VS Code](https://code.visualstudio.com/)
+
+### GitHub e Git
+
+#### Introdução ao Git
+
+O Git é um sistema de controle de versão distribuído projetado para gerenciar projetos, desde os pequenos até os muito grandes, de maneira rápida e eficiente. Foi criado por Linus Torvalds, o criador do kernel Linux, para gerenciar o desenvolvimento do próprio kernel Linux.
+
+O Git permite que os desenvolvedores acompanhem as alterações em seu código, colaborem com outros desenvolvedores e gerenciem várias versões de seus projetos. Algumas das principais características do Git incluem:
+
+- **Branches (ramificações)**: O Git permite que os desenvolvedores criem ramos, que são cópias separadas de sua base de código. Isso permite que eles trabalhem em novos recursos ou correções de bugs sem afetar a base de código principal. Quando as alterações são concluídas, eles podem mesclar o ramo de volta à base de código principal.
+- **Área de preparação (staging area)**: O Git fornece uma área de preparação onde os desenvolvedores podem preparar suas alterações antes de confirmá-las no repositório. Isso permite que eles revisem e organizem suas alterações antes de torná-las permanentes.
+- **Controle de versão distribuído**: Ao contrário dos sistemas de controle de versão centralizados, o Git é um sistema de controle de versão distribuído. Isso significa que cada desenvolvedor possui uma cópia completa do repositório em sua máquina local, permitindo que trabalhem offline e independentemente de um servidor central.
+
+#### Introdução ao GitHub
+
+O GitHub é uma plataforma web de controle de versão e colaboração que utiliza o Git como tecnologia subjacente. Ele oferece uma interface simples e amigável para gerenciar repositórios Git, bem como uma variedade de recursos e ferramentas para colaborar com outros desenvolvedores.
+
+Aqui estão algumas das principais características do GitHub:
+
+- **Rastreamento de problemas**: O GitHub possui um sistema integrado de rastreamento de problemas que permite que os desenvolvedores criem, atribuam e gerenciem problemas relacionados aos seus projetos. Os problemas podem ser categorizados usando rótulos, marcos e destinatários, facilitando o acompanhamento do progresso do projeto e a priorização das tarefas.
+- **Pull Requests (solicitações de pull)**: O GitHub introduz o conceito de "solicitações de pull", que permite que os desenvolvedores proponham alterações à base de código de um projeto. As solicitações de pull permitem a revisão de código, discussão e colaboração antes que as alterações sejam mescladas na base de código principal.
+- **Fork (bifurcação)**: O GitHub permite que os usuários criem uma cópia de um repositório, chamada de bifurcação (fork). Isso lhes permite fazer alterações na base de código sem afetar o projeto original. Depois de concluir as alterações, eles podem enviar uma solicitação de pull para que suas alterações sejam revisadas e, possivelmente, mescladas na base de código principal.
+- **GitHub Actions (ações do GitHub)**: O GitHub Actions é uma poderosa ferramenta de automação que permite criar fluxos de trabalho personalizados para automatizar tarefas como compilação, teste e implantação de seu código.
+
+### Começando com Git e GitHub
+
+Para começar com o GitHub, siga as etapas abaixo:
+
+1. **Instale o Git**: Baixe e instale o Git em seu computador acessando o site oficial do Git (https://git-scm.com/) e seguindo as instruções de instalação para o seu sistema operacional.
+
+2. **Configure o Git**: Após instalar o Git, abra um terminal ou prompt de comando e configure suas informações de usuário Git executando os comandos a seguir:
+
+```shell
+git config --global user.name "Seu Nome de Usuário"
+git config --global user.email "seu.email@exemplo.com"
+```
+
+Substitua "Seu Nome de Usuário" pelo seu nome completo e "seu.email@exemplo.com" pelo endereço de e-mail que você usou para se inscrever no GitHub.
+
+#### Praticando com o VS Code
+
+Para praticar o uso do GitHub, vamos criar um repositório, cloná-lo, fazer alterações e enviá-las.
+
+1. **Crie um novo repositório**: Faça login na sua conta do GitHub e vá para https://github.com/new ou clique no ícone "+" no canto superior direito e selecione "Novo repositório" no menu suspenso.
+
+Escolha a opção "Seu" como proprietário do repositório e insira um nome para o seu repositório. Para este exemplo, usaremos `repositorio-de-pratica`.
+
+Escolha se deseja que ele seja público ou privado. Você também pode optar por inicializar o repositório com um arquivo README, um arquivo .gitignore e/ou uma licença.
+
+Para este exemplo, inicialize o repositório com um arquivo README.
+
+1. **Clone o repositório**: Depois de criar um novo repositório, você pode cloná-lo para sua máquina local executando o seguinte comando no seu terminal ou prompt de comando:
+
+```bash
+git clone https://github.com/seu-nome-de-usuario/nome-do-repositorio.git
+```
+
+Substitua "seu-nome-de-usuario" pelo seu nome de usuário no GitHub e "nome-do-repositorio" por `repositorio-de-pratica`.
+
+3. **Acesse seu repositório no seu editor de código**: Para este exemplo, estamos usando o VS Code. Abra o VS Code, vá para a guia Arquivo e abra o seu repositório de prática.
+
+4. **Faça alterações e faça commit**: Deve haver um arquivo no seu repositório: `README.md`. Neste arquivo, sob `# repositorio-de-pratica`, digite 'olá mundo!'. Depois de fazer as alterações, você pode adicioná-las ao commit.
+
+Abra o seu terminal e verifique se você está no diretório correto. Por exemplo, meus projetos de código estão na minha pasta Projetos. Usando o meu terminal, eu entraria neste repositório com o seguinte comando:
+
+```bash
+cd projetos/repositorio-de-pratica
+```
+
+Depois de estar no diretório correto, use os seguintes comandos para adicionar as alterações que você fez e escrever uma mensagem de commit com uma descrição das alterações:
+
+```bash
+git add .
+git commit -m "Sua mensagem de commit"
+```
+
+Substitua "Sua mensagem de commit" por uma breve descrição das alterações que você fez.
+
+5. **Envie suas alterações**: Após fazer o commit das suas alterações, você pode enviá-las para o seu repositório remoto no GitHub executando o seguinte comando:
+
+```bash
+git push origin main
+```
+
+Isso enviará suas mudanças para o ramo "main" do seu repositório remoto. Se você quiser verificar seu trabalho, vá para o seu repositório no GitHub. Você deverá ver 'olá mundo!' no seu arquivo README.md.
+
+Agora você configurou com sucesso o Git e o GitHub na sua máquina local e está pronto para colaborar em projetos de código aberto!
+
+### CodeSee
+
+CodeSee é uma ferramenta de visualização poderosa que ajuda os desenvolvedores a entenderem as bases de código complexas e a navegarem mais eficazmente em projetos grandes. Ao fornecer uma representação visual do seu código, o CodeSee permite que você:
+
+- **Identifique as dependências**: O CodeSee ajuda a entender como as diferentes partes da sua base de código estão conectadas e como as mudanças em uma área podem afetar outras áreas.
+- **Analise a estrutura do código**: O CodeSee permite visualizar a estrutura do seu código, facilitando a identificação de padrões, antipadrões e áreas para melhorias.
+- **Navegue em bases de código grandes**: Com o CodeSee, você pode navegar rapidamente em grandes bases de código e encontrar as partes do código nas quais precisa trabalhar.
+
+Para começar a usar o CodeSee, visite o site oficial (https://www.codesee.io/) e siga as instruções para instalar a extensão no seu navegador e integrá-la à sua conta do GitHub.
+
+### VS Code
+
+O Visual Studio Code (VS Code) é um editor de código popular, gratuito e de código aberto desenvolvido pela Microsoft. Ele suporta uma ampla variedade de linguagens de programação e oferece muitos recursos que o tornam uma excelente escolha para o desenvolvimento de código aberto:
+
+- **Suporte integrado ao Git**: O VS Code oferece suporte integrado ao Git, permitindo que você gerencie seus repositórios Git, faça o staging e confirme alterações e resolva conflitos de mesclagem diretamente no editor.
+- **Extensibilidade**: O VS Code oferece um ecossistema rico de extensões que podem melhorar sua experiência de desenvolvimento e adicionar suporte para linguagens, ferramentas e frameworks adicionais.
+- **Terminal integrado**: O VS Code inclui um terminal integrado que permite executar comandos, scripts e tarefas de construção diretamente no editor.
+- **Customizável**: O VS Code é altamente customizável, permitindo que você adapte o editor às suas preferências e fluxo de trabalho. Você pode personalizar o tema, os atalhos de teclado e as configurações para criar um ambiente de desenvolvimento personalizado.
+
+Para baixar e instalar o VS Code, visite o site oficial (https://code.visualstudio.com/) e siga as instruções para o seu sistema operacional.
+
+### Discord
+
+O Discord é uma plataforma popular de mensagens e chat de voz amplamente utilizada pelas comunidades de código aberto para comunicação e colaboração. Ao ingressar em servidores do Discord relacionados aos seus interesses e projetos, você pode:
+
+- **Conectar-se com outros desenvolvedores**: O Discord permite que você converse com outros desenvolvedores, faça perguntas e compartilhe seu conhecimento com a comunidade.
+- **Ficar informado**: Muitos projetos de código aberto usam o Discord para compartilhar atualizações, anúncios e outras informações importantes. Ao ingressar em seus servidores, você pode se manter informado sobre os últimos desenvolvimentos e contribuir de forma mais eficaz.
+- **Participar de discussões**: Os servidores do Discord frequentemente hospedam discussões sobre vários tópicos relacionados ao desenvolvimento de software livre. Ao participar dessas discussões, você pode:
+
+* Aprender com os outros
+* Compartilhar suas ideias
+* Contribuir para o conhecimento coletivo da comunidade
+
+### Encontre oportunidades de colaboração
+
+Os servidores Discord podem ser uma excelente maneira de encontrar pessoas que compartilham seus interesses e buscam oportunidades de colaboração. Ao criar laços com outros desenvolvedores, você pode:
+
+- Descobrir novos projetos para trabalhar
+- Formar parcerias valiosas
+
+### Como começar
+
+Para começar a usar o Discord, visite o site oficial (https://discord.com/) e crie uma conta. Depois de ter uma conta, você pode pesquisar comunidades e projetos open source em plataformas como GitHub, GitLab ou a Kalify Inc para encontrar seus servidores Discord e participar da conversa.
+
+### Próxima seção
+
+No próximo capítulo, veremos como contribuir para projetos open source, incluindo como encontrar projetos para trabalhar, como enviar contribuições e como explicar o que acontece depois que sua contribuição é aceita.
+
+## 5. Como contribuir para o código aberto
+
+Neste capítulo, iremos orientá-lo pelo processo de contribuição para projetos de código aberto. Abordaremos os seguintes tópicos:
+
+- Encontrando projetos para contribuir
+- Como enviar uma contribuição?
+- Integração em um novo projeto
+- O que acontece em seguida?
+
+### Encontrando projetos para contribuir
+
+Um dos primeiros desafios que você pode enfrentar ao entrar no mundo do código aberto é encontrar um projeto para contribuir. Aqui estão algumas dicas para ajudá-lo a descobrir projetos que correspondam aos seus interesses e habilidades:
+
+1. **Explore o GitHub e o GitLab**: Tanto o GitHub quanto o GitLab hospedam uma grande quantidade de projetos de código aberto. Você pode usar a função de pesquisa deles para encontrar projetos com base em palavras-chave, linguagens de programação ou tópicos específicos.
+
+2. **Siga seus interesses**: Pense nas ferramentas, estruturas (frameworks) e bibliotecas que você usa ou gostaria de aprender mais. Muitos desses projetos são de código aberto e recebem de bom grado contribuições da comunidade.
+
+3. **Junte-se às comunidades de código aberto**: Existem muitas comunidades, fóruns e plataformas de discussão online dedicados ao desenvolvimento de código aberto. Ao se juntar a essas comunidades, você pode entrar em contato com outros desenvolvedores, descobrir novos projetos e encontrar oportunidades de colaboração. Por exemplo, no servidor [Discord da Kalify](https://discord.gg/jhSepmE7nN), compartilhamos problemas iniciais, projetos interessantes do GitHub e problemas abertos em nossos repositórios.
+
+4. **Aproveite a comunidade**: [Kalify](https://kalify.vercel.app/#projects) é uma comunidade que ajuda os desenvolvedores a descobrir projetos de código aberto para contribuir. Usando a Kalify, você pode encontrar projetos que correspondam aos seus interesses, habilidades e metas.
+
+### Começando a contribuir
+
+Depois de encontrar um projeto ao qual você gostaria de contribuir, é importante entender como o projeto aceita contribuições. Aqui estão algumas etapas que você pode seguir para garantir que está seguindo os procedimentos estabelecidos pelos mantenedores para os contribuidores.
+
+1. **Familiarize-se com o projeto**: Leia a documentação do projeto, incluindo o arquivo README, para entender seu propósito, objetivos e convenções de codificação. Em seguida, leia o arquivo CONTRIBUTING para compreender o processo de contribuição. Explore o código do projeto, sua estrutura e as issues existentes.
+
+2. **Encontre um bug/problema ou relate um bug**: Procure por issues marcadas como "good first issue" (bom primeiro problema) ou "beginner-friendly" (amigável para iniciantes) que correspondam ao seu nível de habilidade. Você também pode identificar um recurso ou melhoria na qual gostaria de trabalhar e verificar se está alinhado com a roadmap do projeto. Isso pode envolver atualizações na documentação, correções de bugs, modificações de conteúdo, etc.
+
+3. **Solicite atribuição do problema**: Quando você fizer sua primeira contribuição a um projeto, é aconselhável solicitar que os mantenedores atribuam o problema a você. Isso garante que você não está duplicando esforços e que sua contribuição está alinhada com os objetivos e requisitos do projeto. Se não houver instruções no arquivo CONTRIBUTING, você pode comentar na issue: "Posso ser atribuído a este problema?". Quando um mantenedor o atribuir, você verá seu nome de usuário na issue.
+
+### Como enviar uma contribuição?
+
+Depois de encontrar o projeto ao qual deseja contribuir, o próximo passo é enviar a contribuição. Aqui estão as etapas gerais do processo:
+
+1. **Faça um fork do repositório**: Crie uma cópia do repositório do projeto no seu próprio perfil GitHub. Isso criará uma cópia do repositório em sua conta GitHub, permitindo que você faça alterações no código sem afetar o projeto original.
+
+2. **Clone o seu fork**: Clone o repositório forkado para a sua máquina local usando o seguinte comando no seu terminal ou prompt de comando:
+
+```bash
+git clone https://github.com/username/nome-do-repositorio.git
+```
+
+Substitua "username" pelo seu nome de usuário GitHub e "nome-do-repositorio" pelo nome do repositório.
+
+3. **Crie uma nova branch**: Antes de fazer alterações, crie uma nova branch no seu repositório local para trabalhar na sua contribuição. Isso ajuda a manter suas alterações separadas da branch principal e facilita o envio de uma pull request posteriormente. Você pode criar uma nova branch com o seguinte comando:
+
+```bash
+git checkout -b nome-da-sua-branch
+```
+
+Substitua "nome-da-sua-branch" por um nome descritivo, como "correcao-bug-123" ou "nova-funcionalidade".
+
+4. **Faça as suas alterações**: Agora que você tem uma nova branch, pode fazer as alterações no código. Certifique-se de seguir as diretrizes e convenções de codificação do projeto, e teste as suas alterações para garantir que funcionam conforme o esperado.
+
+5. **Confirme as suas alterações (commit)**: Após fazer as suas alterações, coloque-as na área de preparação e faça um commit usando os seguintes comandos:
+
+```bash
+git add .
+git commit -m "Sua mensagem de commit"
+```
+
+Substitua "Sua mensagem de commit" por uma breve descrição das alterações que você fez.
+
+6. **Envie as suas alterações (push)**: Envie as suas alterações para o seu repositório forkado no GitHub usando o seguinte comando:
+
+```bash
+git push origin nome-da-sua-branch
+```
+
+Substitua "nome-da-sua-branch" pelo nome da sua branch.
+
+7. **Crie uma pull request**: Após enviar as suas alterações, vá para o repositório original do projeto no GitHub e clique no botão "Nova pull request" (New pull request). Na lista suspensa "base repository" (repositório base), selecione o repositório original e, na lista suspensa "head repository" (repositório de origem), selecione o seu repositório forkado. Escolha a sua branch na lista suspensa "compare" (comparar) e clique em "Criar pull request" (Create pull request). Preencha as informações necessárias e envie a sua pull request.
+
+8. **Responda aos comentários**: Após enviar a sua pull request, os mantenedores do projeto podem fazer comentários ou solicitar alterações. Certifique-se de responder prontamente e considerar as preocupações ou sugestões que possam surgir.
+
+Ao seguir essas etapas, você estará pronto para enviar as suas contribuições para projetos de código aberto e colaborar com outros desenvolvedores para melhorar o código base.
+
+### Prática
+
+Agora que você sabe como encontrar e contribuir para projetos de código aberto, é hora de colocar as suas habilidades em prática. Vamos contribuir para esse site de documentação da Kalify usando a especificação ["all contributors"](https://allcontributors.org/).
+
+1. Comece fazendo um fork do repositório, conforme descrito acima, mas desta vez, o repositório é o website-kalify: [https://github.com/yagasaki7k/website-kalify](https://github.com/yagasaki7k/website-kalify). Clicando em "Fork" no GitHub, você criará uma cópia do repositório na sua conta do GitHub.
+
+2. Em seguida, clone esse repositório na sua máquina local. No seu terminal ou prompt de comando, execute o seguinte comando:
+
+```bash
+git clone git@github.com:[seu-nome-de-usuario]/repositorio.git
+```
+
+> Este tutorial presume que o Node.js está instalado na sua máquina, o que é necessário para trabalhar com este projeto. Se você não tiver o Node.js instalado, pode baixá-lo em [https://nodejs.org/pt-br/download/](https://nodejs.org/pt-br/download/)>.
+
+1. Depois de clonar, abra o projeto no seu terminal e execute `npm install` para instalar as dependências, lembre-se de estar dentro da pasta. Você também pode usar `yarn` se preferir outro gerenciador de pacotes.
+
+2. **Crie uma nova branch**: Antes de fazer alterações, lembre-se de criar uma nova branch no seu repositório local para trabalhar na sua contribuição. Você pode criar uma nova branch com o seguinte comando:
+
+```bash
+git checkout -b feature/[seu-nome-de-usuario]
+```
+
+Não se esqueça de substituir "[seu-nome-de-usuario]" pelo seu nome de usuário GitHub.
+
+Lembre-se que assim que seu pull request for aceito, você já estará fazendo parte como contribuidor do projeto.
+
+3. Confirme as suas alterações, faça um commit e envie para o seu repositório forkado.
+
+4. Após o envio, vá para o repositório original do projeto no GitHub e clique em "Nova pull request" (New pull request). Na lista suspensa "base repository" (repositório base), selecione o repositório original e, na lista suspensa "head repository" (repositório de origem), selecione o seu repositório forkado. Escolha a sua branch na lista suspensa "compare" (comparar) e clique em "Criar pull request" (Create pull request). Preencha as informações necessárias e envie a sua pull request.
+
+Parabéns! Você acabou de fazer uma contribuição para o código aberto! No próximo capítulo, você a adicionará ao seu portfólio de código aberto - um currículo para contribuições de código aberto onde poderá mostrar o seu trabalho e atrair potenciais empregadores e amigos que usam o Kalify. Por enquanto, vamos continuar com algumas notas sobre integração.
+
+### Integração em um Novo Projeto
+
+Quando você se junta a um novo projeto de código aberto, é importante se familiarizar com as diretrizes, convenções e fluxo de trabalho do projeto. Aqui estão algumas dicas para ajudar você a ter sucesso na sua integração:
+
+1. **Leia a documentação**: Comece lendo a documentação do projeto, incluindo o arquivo README, as diretrizes de contribuição e o código de conduta. Isso ajudará você a entender os objetivos do projeto, os requisitos e as expectativas dos contribuidores.
+
+2. **Junte-se à comunidade**: Muitos projetos de código aberto têm comunidades online, fóruns ou plataformas de discussão onde os desenvolvedores podem fazer perguntas, compartilhar conhecimento e colaborar. Ao se juntar a essas comunidades, você pode entrar em contato com outros contribuidores, aproveitar suas experiências e obter ajuda para resolver os problemas que encontrar.
+
+3. **Comece com tarefas pequenas**: quando você está começando em um projeto, é aconselhável começar com tarefas pequenas e gerenciáveis, como corrigir bugs, adicionar testes ou atualizar a documentação. Isso ajudará você a se familiarizar com o código-fonte e o fluxo de desenvolvimento sem se sentir sobrecarregado.
+
+4. **Peça ajuda**: Se você não tem certeza de algo ou está enfrentando um problema, não hesite em pedir ajuda. As comunidades de código aberto geralmente são solidárias e acolhedoras, e outros contribuidores ficarão felizes em ajudar você.
+
+5. **Seja paciente e persistente**: Integrar-se a um novo projeto pode ser desafiador, especialmente se você for novo no desenvolvimento de código aberto. Seja paciente consigo mesmo e não desanime com falhas ou erros. Com perseverança e prática, você se tornará mais confortável e confiante em suas contribuições.
+
+### O que acontece em seguida?
+
+Depois que sua contribuição for enviada e revisada, um dos seguintes resultados pode ocorrer:
+
+1. **Sua contribuição é aceita**: Se sua contribuição for aprovada pelos responsáveis pelo projeto, ela será mesclada na branch principal do código-fonte.
+
+Parabéns! Seu trabalho agora faz parte do projeto e você fez uma contribuição valiosa para a comunidade de código aberto.
+
+2. **Sua contribuição requer alterações**: Às vezes, os responsáveis pelo projeto podem solicitar alterações em sua contribuição antes de aceitá-la. Isso pode ser devido a problemas de codificação, conflitos com outras alterações ou necessidade de documentação adicional. Nesse caso, faça as alterações solicitadas e envie novamente sua solicitação de pull.
+
+3. **Sua contribuição é rejeitada**: Em alguns casos, sua contribuição pode não atender aos objetivos ou requisitos do projeto, ou pode não ser a melhor solução para um problema. Se sua contribuição for rejeitada, não desanime. Considere os comentários recebidos como uma oportunidade de aprendizado e melhoria. Você sempre pode tentar contribuir para outro projeto ou enviar uma contribuição diferente para o mesmo projeto.
+
+Continuando a contribuir para projetos de código aberto, você ganhará experiência valiosa, desenvolverá novas habilidades e construirá um portfólio sólido de trabalho. No próximo capítulo, discutiremos algumas estratégias para começar a contribuir para projetos de código aberto, ganhar terreno em suas contribuições e desenvolver seu currículo de código aberto com a ajuda da Kalify Inc.
+
+## Como contribuir para o código aberto
+
+Neste capítulo, vamos guiá-lo pelo processo de contribuição para projetos de código aberto. Abordaremos os seguintes tópicos:
+
+- Encontrar projetos para trabalhar
+- Como enviar uma contribuição?
+- Integrando-se a um novo projeto
+- O que acontece em seguida?
+
+#### Encontrar projetos para trabalhar
+
+Um dos primeiros desafios que você pode enfrentar ao entrar no mundo do código aberto é encontrar um projeto ao qual contribuir. Aqui estão algumas dicas para ajudá-lo a descobrir projetos que se encaixem em seus interesses e habilidades:
+
+1. **Explore o GitHub e o GitLab**: O GitHub e o GitLab hospedam uma grande quantidade de projetos de código aberto. Você pode usar a função de pesquisa deles para encontrar projetos com base em palavras-chave, linguagens de programação ou tópicos específicos.
+
+2. **Siga seus interesses**: Pense nas ferramentas, estruturas e bibliotecas que você usa ou gostaria de aprender mais. Muitos desses projetos são de código aberto e recebem contribuições da comunidade com prazer.
+
+3. **Junte-se às comunidades de código aberto**: Existem muitas comunidades, fóruns e plataformas de discussão online dedicados ao desenvolvimento de código aberto. Ao se juntar a essas comunidades, você pode entrar em contato com outros desenvolvedores, descobrir novos projetos e encontrar oportunidades de colaboração. No servidor [Discord da Kalify](https://discord.gg/jhSepmE7nN), por exemplo, compartilhamos problemas iniciais, projetos interessantes no GitHub e problemas abertos em nossos repositórios.
+
+#### Começando a contribuir
+
+Depois de encontrar um projeto ao qual gostaria de contribuir, é importante entender como o projeto recebe contribuições. Aqui estão algumas etapas que você pode seguir para garantir que está seguindo os procedimentos estabelecidos pelos responsáveis pelo projeto para os contribuidores.
+
+1. **Familiarize-se com o projeto**: Leia a documentação do projeto, incluindo o arquivo README, para entender o propósito, os objetivos e as convenções de codificação do projeto. Em seguida, leia o arquivo CONTRIBUTING para entender melhor o processo de contribuição. Familiarize-se com o código-fonte do projeto, sua estrutura e os problemas existentes (issues).
+
+2. **Encontre um bug/problema ou relate um bug**: Procure por problemas rotulados como "good first issue" (bom primeiro problema) ou "beginner-friendly" (amigável para iniciantes) que correspondam ao seu nível de habilidade. Você também pode identificar um recurso ou melhoria com os quais gostaria de trabalhar e verificar se eles estão alinhados com a trajetória do projeto. Isso pode incluir atualizações na documentação, correções de bugs, alterações de conteúdo, etc.
+
+3. **Peça para ser atribuído ao problema**: Quando você está fazendo sua primeira contribuição a um projeto, é aconselhável pedir aos responsáveis para ser atribuído ao problema. Isso garantirá que você não está trabalhando duplicadamente e que sua contribuição está de acordo com os objetivos e requisitos do projeto. Se não houver instruções no arquivo CONTRIBUTING, você pode comentar no problema, "Posso ser atribuído a este problema, por favor?" Quando o responsável atribuir o problema a você, você notará que o problema agora está etiquetado com seu nome de usuário.
+
+#### Como enviar uma contribuição?
+
+Depois de encontrar o projeto para o qual deseja contribuir, o próximo passo é enviar uma contribuição. Aqui estão os passos gerais do procedimento:
+
+1. **Faça um fork do repositório**: Crie uma cópia do repositório do projeto, isso criará uma cópia do repositório na sua conta do GitHub. Isso permitirá que você faça alterações na base de código sem afetar o projeto original.
+
+2. **Clone o seu fork**: Clone o repositório forkado para a sua máquina local executando o seguinte comando no seu terminal ou prompt de comando:
+
+```shell
+git clone https://github.com/username/repository-name.git
+
+```
+
+3. **Criar uma nova branch**: Antes de fazer qualquer modificação, crie uma nova branch no seu repositório local para trabalhar na sua contribuição. Isso ajudará a manter suas alterações separadas da branch principal e facilitará a submissão de uma solicitação de pull request posteriormente. Você pode criar uma nova branch usando o seguinte comando:
+
+```shell
+git checkout -b seu-nome-de-branch
+```
+
+Substitua "seu-nome-de-branch" pelo nome descritivo da sua branch, como "correcao-bug-123" ou "adicao-nova-funcionalidade".
+
+4. **Faça suas alterações**: Agora que você criou uma nova branch, pode fazer as alterações no código-fonte. Certifique-se de seguir as diretrizes e convenções de codificação do projeto e teste suas alterações para garantir que elas funcionem como esperado.
+
+5. **Confirme suas alterações (commit)**: Após concluir suas alterações, coloque-as na área de preparação e confirme-as (faça um commit) usando os seguintes comandos:
+
+```shell
+git add .
+git commit -m "Sua mensagem de commit"
+```
+
+Substitua "Sua mensagem de commit" por uma breve descrição das alterações que você fez.
+
+5. **Envie suas alterações (push)**: Envie suas alterações para o seu repositório fork no GitHub executando o seguinte comando:
+
+```shell
+git push -u origin seu-nome-de-branch
+```
+
+Substitua "seu-nome-de-branch" pelo nome da sua branch onde você fez as alterações.
+
+7. **Enviar uma solicitação de pull request**: Após ter enviado suas alterações, vá para o repositório original do projeto no GitHub e clique no botão "Nova solicitação de pull" (New pull request). Na lista suspensa "repositório base" (base repository), selecione o repositório original e, na lista suspensa "repositório de origem" (head repository), selecione o seu repositório fork. Escolha a sua branch na lista suspensa "comparar" (compare), e clique em "Criar solicitação de pull" (Create pull request). Preencha as informações necessárias e envie a sua solicitação de pull request.
+
+8. **Responder aos comentários**: Após enviar a sua solicitação de pull request, os mantenedores do projeto podem fornecer comentários ou solicitar alterações. Certifique-se de responder prontamente e levar em consideração as preocupações ou sugestões que possam ter.
+
+Seguindo esses passos, você poderá enviar as suas contribuições para projetos open source e colaborar com outros desenvolvedores para melhorar o código-base.
+
+# 6. A Receita Secreta
+
+Neste capítulo, compartilharemos algumas estratégias e dicas menos conhecidas para ter um impacto duradouro na comunidade de código aberto. Discutiremos como focar em problemas em aberto, ganhar destaque em suas contribuições e desenvolver seu currículo de código aberto usando a Kalify.
+
+### Problemas em Aberto: Mais do que Corrigir Erros de Digitação
+
+Embora corrigir erros de digitação e melhorar a documentação sejam contribuições valiosas para projetos de código aberto, é crucial olhar além dessas tarefas e concentrar-se na resolução de problemas em aberto. A resolução de problemas em aberto não apenas faz o projeto avançar, mas também permite que você desenvolva uma compreensão mais profunda da base de código e demonstre suas habilidades de resolução de problemas.
+
+Aqui estão algumas dicas para encontrar e resolver problemas em aberto:
+
+1. **Navegue pelo Rastreamento de Problemas**: a maioria dos projetos de código aberto usa um sistema de rastreamento de problemas para gerenciar bugs, solicitações de recursos e outras tarefas. Explore o sistema de rastreamento de problemas em busca de problemas que correspondam aos seus interesses e habilidades.
+
+2. **Procure Problemas Adequados para Iniciantes**: muitos projetos usam rótulos como "bom primeiro problema" ou "pedido de ajuda" para indicar problemas adequados para iniciantes. Comece por esses problemas para ganhar confiança e adquirir experiência antes de abordar tarefas mais complexas.
+
+3. **Compreenda o Problema**: antes de mergulhar em um problema, certifique-se de compreender bem o problema e o resultado desejado. Se você não tiver certeza de algo, faça perguntas ou peça esclarecimentos aos mantenedores do projeto ou a outros contribuidores.
+
+4. **Comunique suas Intenções**: antes de começar a trabalhar em um problema, informe aos responsáveis pelo projeto e outros contribuidores que você está interessado em resolvê-lo. Isso pode ajudar a evitar esforços duplicados e garantir que todos estejam na mesma página.
+
+5. **Teste Suas Alterações**: depois de resolver um problema, teste cuidadosamente suas alterações para garantir que funcionem conforme o esperado e não introduzam novos problemas.
+
+Ao focar em problemas em aberto em vez de simplesmente corrigir erros de digitação, você terá um impacto mais significativo nos projetos aos quais contribui e demonstrará seu compromisso com a comunidade de código aberto.
+
+### Destacando-se nas Contribuições
+
+À medida que você se torna mais experiente em contribuições de código aberto, pode desejar aumentar seu impacto nos projetos em que trabalha e obter reconhecimento por seus esforços. Aqui estão algumas estratégias para se destacar em suas contribuições:
+
+1. **Torne-se um Contribuidor Regular**: Contribua regularmente para os mesmos projetos ao longo do tempo. Isso ajudará você a desenvolver um entendimento mais profundo da base de código, a construir relacionamentos com outros contribuidores e a se estabelecer como um membro valioso da comunidade.
+
+2. **Assuma Tarefas Desafiadoras**: à medida que você ganha experiência, aborde problemas e recursos mais complexos. Isso não apenas o ajudará a crescer como desenvolvedor, mas também demonstrará sua capacidade de lidar com tarefas difíceis e contribuir de maneira significativa para o projeto.
+
+3. **Colabore com Outros**: o código aberto trata da colaboração. Trabalhe com outros contribuidores para resolver problemas, desenvolver recursos e compartilhar conhecimento. Ao colaborar efetivamente, você melhorará não apenas o projeto, mas também criará uma rede sólida de conexões na comunidade de código aberto.
+
+4. **Compartilhe seu Conhecimento**: compartilhe seus conhecimentos e ideias escrevendo artigos, criando tutoriais ou fazendo apresentações sobre os projetos em que trabalha. Isso não apenas ajudará os outros a aprender com suas experiências, mas também o estabelecerá como um líder de opinião na comunidade de código aberto.
+
+5. **Mentore Novos Contribuidores**: à medida que você ganha experiência em contribuições de código aberto, considere orientar novos contribuidores que estão começando sua jornada no código aberto. Isso pode ajudar a retribuir à comunidade, desenvolver suas habilidades de liderança e construir uma reputação positiva.
+
+### Destacando Efetivamente Suas Contribuições
+
+Informações importantes para incluir ao destacar suas contribuições:
+
+- Novos recursos que você criou.
+- Detalhes do projeto (ferramentas, bibliotecas, tamanho e complexidade).
+- O tipo de suas contribuições: correção de bug, funcionalidade, desempenho, documentação, etc.
+- Detalhes de sua contribuição, incluindo melhorias e impactos no projeto e na comunidade.
+- Detalhes sobre colaboração e trabalho em equipe.
+
+#### Formato de seu Destaque
+
+Para ser eficaz ao destacar suas contribuições, recomendamos usar o seguinte formato:
+
+- **Título**: deve ser uma breve descrição da contribuição. Por exemplo, "Criação de uma ação GitHub para mesclar automaticamente solicitações de pull".
+- **Link**
+- **Descrição**: ao destacar sua contribuição, recomendamos mencionar o impacto que teve em todo o projeto. Isso pode ser útil para enfatizar suas qualificações ao se candidatar a empregos, especialmente se você tiver lacunas em seu histórico de empregos. Considere usar o seguinte modelo para ajudar a transformar esse destaque em uma história:
+- Verbo de ação + nome + métrica + resultado.
+- Exemplo: enquanto revisava algumas solicitações de pull para o GirlScript Summer of Code deste ano, notei que a maioria delas não estava sendo mesclada, apesar da minha aprovação e da aprovação do proprietário. Portanto, **criei uma ação GitHub onde as solicitações de pull são mescladas automaticamente quando passam pelas etapas de implantação (verbo de ação + nome)**, o que **aumentou a produtividade em 80% (métrica + resultado)**.
+
+**Compartilhe-o!**: Depois de criar um portfólio de contribuições de código aberto, você pode compartilhar seu currículo de código aberto com os outros clicando no botão de compartilhamento no cabeçalho de sua página de perfil. Isso pode ser especialmente útil ao se candidatar a empregos, ao fazer networking com outros desenvolvedores ou ao promover seu trabalho na comunidade de código aberto.
+
+Ao aproveitar a Kalify para rastrear suas contribuições de código aberto e desenvolver seu currículo, você estará melhor preparado para destacar suas habilidades, experiência e impacto na comunidade de código aberto.
+
+Em conclusão, começar com contribuições de código aberto e ter um impacto duradouro nos projetos em que você trabalha requer uma combinação de habilidades técnicas, colaboração e perseverança. Ao focar em problemas em aberto, ganhar destaque em suas contribuições e aproveitar a comunidade como a Kalify, você estará no caminho certo para uma jornada bem-sucedida e gratificante no código aberto.
+
+## 7. Conclusão
+
+Para concluir este curso sobre os fundamentos do código aberto, vamos recapitular as principais lições e discutir os próximos passos em sua jornada no código aberto.
+
+### Principais Pontos
+
+Ao longo deste curso, abordamos uma série de tópicos projetados para ajudá-lo a entender e navegar pelo mundo do código aberto:
+
+1. **O que é Código Aberto?**: Discutimos a definição de código aberto, sua história e os princípios fundamentais que orientam o movimento de código aberto.
+
+2. **Por que Código Aberto?**: Exploramos os benefícios de participar de projetos de código aberto, incluindo acesso ao conhecimento, à comunidade e ao desenvolvimento de habilidades.
+
+3. **Ferramentas para o Sucesso**: Apresentamos as ferramentas e plataformas essenciais para contribuintes de código aberto, como GitHub, Git, CodeSee, Visual Studio Code e Discord.
+
+4. **Como Contribuir para o Código Aberto**: Discutimos o processo de encontrar projetos para trabalhar, enviar contribuições, integrar-se a novos projetos e o que acontece após o envio de sua contribuição.
+
+5. **O Segredo do Sucesso**: Compartilhamos estratégias para começar a contribuir para o código aberto, ganhar destaque em suas contribuições e desenvolver seu currículo de código aberto usando a Kalify.
+
+Compreendendo esses conceitos e aplicando as estratégias que discutimos, você estará bem preparado para iniciar com sucesso sua jornada no mundo do código aberto.
+
+### Próximos Passos
+
+Com o conhecimento e as ferramentas que você adquiriu neste curso, você está pronto para mergulhar no mundo do código aberto e começar a fazer contribuições significativas. Aqui estão os próximos passos que o ajudarão a avançar em sua jornada no código aberto:
+
+1. **Identifique seus Interesses e Metas**: Antes de começar a contribuir para projetos de código aberto, reserve algum tempo para refletir sobre seus interesses, paixões e objetivos. Isso o ajudará a identificar os projetos que correspondem aos seus valores e objetivos.
+
+2. **Encontre Projetos para Contribuir**: Utilize plataformas e comunidades como GitHub, Kalify Inc e CodeTriage para descobrir projetos de código aberto que se alinhem com seus interesses e habilidades. Procure projetos com comunidades ativas, documentação clara e diretrizes de contribuição bem definidas.
+
+3. **Comece a Contribuir**: Depois de identificar um projeto para contribuir, comece abordando tarefas pequenas e gerenciáveis para ganhar confiança e adquirir experiência. À medida que se sentir mais confortável, poderá enfrentar tarefas e desafios mais complexos.
+
+4. **Conecte-se com a Comunidade de Código Aberto**: Junte-se a fóruns online, plataformas de discussão e grupos de mídia social relacionados aos projetos que lhe interessam. Converse com outros contribuintes, faça perguntas e compartilhe seu conhecimento.
+
+5. **Participe de Eventos e Conferências de Código Aberto**: Participe de eventos, conferências e reuniões de código aberto para aprender com os outros, criar contatos com outros desenvolvedores e manter-se atualizado sobre as últimas tendências e melhores práticas no mundo do código aberto.
+
+6. **Compartilhe suas Experiências**: Documente sua jornada no campo do código aberto escrevendo artigos de blog, criando tutoriais ou fazendo apresentações. Isso não só permitirá que outros aprendam com suas experiências, mas também o posicionará como um líder de opinião na comunidade de código aberto.
+
+7. **Aprendizado Contínuo**: O código aberto é um campo dinâmico e em constante evolução. Mantenha-se atualizado com as últimas ferramentas, técnicas e melhores práticas participando de workshops, fazendo cursos online e lendo artigos e livros sobre desenvolvimento de código aberto. Incluímos uma seção de recursos adicionais para obter mais informações.
+
+Em conclusão, iniciar a aventura do código aberto é uma experiência gratificante e enriquecedora que pode ajudá-lo a desenvolver novas habilidades, criar vínculos com pessoas que compartilham suas ideias e ter um impacto duradouro nos projetos em que trabalha. Com o conhecimento e as ferramentas que você adquiriu neste curso, você está bem preparado para enfrentar os desafios empolgantes e aproveitar as oportunidades que o esperam no mundo do código aberto. Então, vá em frente e comece a contribuir, a comunidade de código aberto aguarda ansiosamente sua participação!
+
+## 8. Recursos Adicionais
+
+Parabéns pela sua jornada no mundo do código aberto! Aqui estão algumas recursos para você aprender mais sobre como começar no código aberto:
+
+### Guias e tutoriais
+
+- [Guias de Código Aberto](https://opensource.guide/) do GitHub: guias abrangentes sobre vários aspectos do código aberto, incluindo como começar, contribuir, manter projetos e criar comunidades.
+
+- [Primeiras Contribuições](https://github.com/firstcontributions/first-contributions) por Roshan Jossey: um guia amigável para iniciantes que o orientará durante sua primeira contribuição para um projeto de código aberto.
+
+- [Guia para Iniciantes no Desenvolvimento de Software de Código Aberto](https://training.linuxfoundation.org/training/beginners-guide-open-source-software-development/) pela Linux Foundation: um curso online gratuito que aborda os fundamentos do software de código aberto, incluindo sua história, licenças e modelos de desenvolvimento.
+
+- [Rede de Estudantes de Código Aberto da Mozilla (OSSN)](https://community.mozilla.org/en/): Fornece recursos e suporte para estudantes interessados em código aberto, incluindo guias, eventos e oportunidades de mentoria.
+
+- [Introdução ao GitHub e Projetos de Código Aberto](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) por DigitalOcean: uma série de tutoriais voltados para iniciantes que abrange o básico do código aberto, incluindo como encontrar projetos para contribuir, entender o código-fonte e enviar contribuições.
+
+- [Open Source Friday](https://opensourcefriday.com/) pelo GitHub: um movimento global que incentiva indivíduos e organizações a contribuir com o código aberto toda sexta-feira. O site fornece recursos e guias sobre como começar no código aberto e encontrar projetos para contribuir.
+
+## 9. Glossário
+
+### Referencial
+
+Um referencial (repositório) é um local central onde o código é armazenado e gerenciado. No código aberto, os repositórios geralmente são hospedados em plataformas como GitHub, GitLab ou Bitbucket. Cada referencial pode conter um ou vários projetos, e os contribuidores podem enviar alterações no código através de solicitações de pull request.
+
+### Mantenedor
+
+Um mantenedor é uma pessoa ou grupo de pessoas responsáveis pela manutenção de um projeto de código aberto específico. Os mantenedores geralmente são responsáveis por revisar e aceitar ou rejeitar as contribuições de outros contribuidores. Eles também têm o poder de tomar decisões finais sobre a direção e o escopo do projeto.
+
+### Membro Principal
+
+Um membro principal é um contribuidor que recebeu privilégios ou responsabilidades adicionais em um projeto de código aberto. Os membros principais geralmente são contribuidores de confiança que demonstraram um profundo entendimento do projeto e fizeram contribuições significativas para o seu desenvolvimento.
+
+### Problema
+
+Um problema é um bug que precisa ser corrigido no código. Problemas podem ser criados por qualquer pessoa e são frequentemente usados para rastrear bugs, solicitações de recursos e outras tarefas que precisam ser realizadas.
+
+### Contribuidor
+
+Um contribuidor é qualquer pessoa que faça alterações, adições ou sugestões em um projeto de código aberto. Os contribuidores podem ser desenvolvedores, designers, redatores, testadores ou qualquer pessoa que ajude a melhorar o projeto.
+
+### Clonar
+
+Clonar é o processo usado para copiar um repositório Git existente para um novo diretório local. O comando `git clone` criará um novo diretório local para o repositório, copiará todo o conteúdo do repositório especificado, criará rastreamento de branches remotas e extrairá uma branch inicial localmente. Por padrão, o Git clone criará uma referência ao repositório remoto chamado "origin".
+
+### Bifurcar
+
+Um fork é uma cópia de um repositório. Quando você faz um fork de um repositório, cria uma nova cópia da base de código que pode modificar e experimentar sem afetar a base de código original.
+
+### Branch (Ramo)
+
+Uma branch (ramo) é uma versão separada do código criada para fins de desenvolvimento. Branches permitem que contribuidores experimentem alterações sem afetar a base de código principal. Quando as alterações estão prontas para serem mescladas na base de código principal, geralmente são enviadas como uma solicitação de pull request.
+
+### Solicitação de Pull Request (Pull Request)
+
+Uma solicitação de pull request é uma solicitação de um contribuidor a um mantenedor para mesclar as alterações feitas no código em uma base de código.
+
+### Mesclar
+
+Mesclar é o processo de combinar as alterações de uma branch em outra. Quando uma solicitação de pull request é aceita e mesclada, as alterações feitas na solicitação de pull request se tornam parte da base de código principal.
+
+### Docs (Documentação)
+
+"Docs" é uma abreviação da palavra "documentação," que é um pedaço de texto que fornece informações sobre como contribuir para projetos de código aberto e as expectativas dos contribuidores. O Markdown, uma linguagem de marcação baseada em texto, é frequentemente usada para criar esse tipo de conteúdo. Quer ver isso em ação? Confira o [Guia de Estilo no nosso repositório Pizza Verse](https://github.com/open-sauced/pizza-verse/blob/main/style-guide.md)!

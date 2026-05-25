@@ -1,0 +1,34 @@
+---
+title: Removendo o Twitter Analytics do Feed
+excerpt: "Remova o Analytics do seu feed e deixe tudo mais limpo, sem informações desnecessárias"
+image: https://images.unsplash.com/photo-1616469829167-0bd76a80c913?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
+tags: ["Tips", "Twitter", "Analytics"]
+date: "2022-12-28"
+---
+
+![](https://images.unsplash.com/photo-1616469829167-0bd76a80c913?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80 "Souvik Banerjee")
+
+> _"Hoje mais cedo estava navegando no Twitter como de costume e o usuário Thiago havia publicado uma dica, uma solução de nossos problemas. Para quem usa o Twitter através do computador, sabe que com a adesão do Twitter Analytics tudo ficou mais poluído ..."_
+
+Hoje mais cedo estava navegando no Twitter como de costume e o usuário [Thiago](https://twitter.com/ThiagoMota014?ref=yagasaki.dev/blog) havia publicado uma dica, uma solução de nossos problemas. Para quem usa o Twitter através do computador, sabe que com a adesão do Twitter Analytics tudo ficou mais poluído, sujo com mais coisas em tela, e Elon Musk está atrás de adicionar o botão para ficar alternativo essa opção, ele já se prontificou quanto a isso, a feature de ver quantas pessoas visualizaram seus tweets existe e é um desastre só, mas enquanto esse botão de ligar e desligar não chega, segue a dica de nosso amigo.
+
+<!--truncate-->
+
+Inicialmente vá até a página do feed de notícias do seu Twitter. Abra o console através do F12 ou com o botão direito do mouse e inspecionar elemento, vá na aba de "Console", cole o código abaixo e instantaneamente verá a feature sumindo:
+
+```javascript
+function removeIcon() {
+    setInterval(() => {
+        [...document.querySelectorAll(".css-1dbjc4n.r-18u37iz.r-1h0z5md")]
+            .filter((div) => div.innerHTML.includes("analytics"))
+            .forEach((div) => div.remove());
+    }, 50);
+}
+removeIcon();
+```
+
+Mas lembre-se, toda vez que você reiniciar a página (F5), será necessário colocar o código novamente, então deixe essa dica salva enquanto o Elon Musk tem dificuldade para fazer isso em grande escala, apesar que isso seria maior gambiarra se estivesse no código fonte do Twitter 😂
+
+Existe o [README](https://github.com/Thiago-Mota-Santos/Remove-twitter-icon?ref=yagasaki.dev/blog) do código dele, caso você esteja com dificuldades para entender como funciona o processo e conta com um .gif do passo a passo necessário para remover o botãozinho mal feito.
+
+Atualização: Para uma questão mais permanente, existe também uma extensão do Chrome conhecida como **Hide Twitter Elements**, desenvolvido pelo [Shodipo Ayomide](https://shodipoayomide.com?ref=yagasaki.dev/blog) e que através dele, você consegue esconder Analytics, Retweets, Comentários e até Likes, deixando um aplicativo minimalista e de acordo com a suas necessidades, você pode encontrar a [extensão do Chrome](https://chrome.google.com/webstore/detail/hide-twitter-elements/fbffhgacjoeloopjakfbdgcdfaklionn/related?hl=en?ref=yagasaki.dev/blog) ou o [código aberto](https://github.com/Developerayo/Hide-Twitter-Elements?ref=yagasaki.dev/blog) do projeto para desenvolver em outros navegadores ou melhorar a versão já atual.

@@ -1,0 +1,472 @@
+---
+title: Playbook do Desenvolvimento Profissional Internacional
+excerpt: "Este playbook é o seu melhor amigo para uma carreira internacional de sucesso. Dividido em duas sessões, teórica e prática."
+image: https://safebooru.org//samples/3759/sample_1648090fe01da9a9ae581c862a966595dddeb548.jpg?3926859
+tags: ["Desenvolvimento", "Pessoal", "Profissional"]
+date: "2024-04-24"
+---
+
+![](https://safebooru.org//samples/3759/sample_1648090fe01da9a9ae581c862a966595dddeb548.jpg?3926859)
+
+Esse é um artigo que foi retirado do Notion original do Alekson Fortes, como o intuito é ajudar o próximo - assim como ele - estou compartilhando,
+o mesmo artigo - ao invés do Notion pelo meu blog - Não sou o autor do playbook e todos os direitos são reservados ao Alekson Fortes, como o
+conteúdo é gratuito e não possuo cunho financeiro, estarei disponibilizando o conteúdo.
+
+Caso você queira ver o conteúdo original pelo Notion e conteúdo original, [acesse esse link](https://alekson.notion.site/Playbook-do-Desenvolvimento-Profissional-Internacional-0c4dbbcb3f154b02ae8db3c3c5630b16).
+
+Introdução de Alekson Fortes
+Nunca tive as coisas de mão beijada. Estou prestes a me tornar canadense por mérito próprio, sem passaporte da família ou benefício de casamento, e também não cheguei ao Canadá por sorte. Pelo contrário, enfrentei muitos desafios para chegar aonde estou hoje. Acredito que seguindo o que estou compartilhando contigo no Notion, você vai conseguir evitar a maioria dos problemas pelos quais passei.
+
+Tive dificuldades de comunicação, falta de confiança e uma vida onde vivia de castigos por ir mal na escola. Criado por pais separados, sofri bullying e era completamente infeliz. Eu me considerava um fracasso, mas hoje a situação é bem diferente.
+
+Comecei minha carreira em 2009, ganhando apenas o vale transporte e R$100 por mês durante um estágio na criação de websites. Atualmente, recebo um salário de seis dígitos em dólares canadenses no Canadá, mas para chegar até aqui, foi necessário investir muito no meu desenvolvimento pessoal e profissional.
+
+Espero que você dê o devido valor ao que está resumido no Notion. Confie no caminho que resumi para você, pois foi esse caminho que me trouxe para o Canadá. Sou a maior prova de que o meu produto funciona, pois pratico o que ensino, ao contrário de muitos que vendem produtos sem terem percorrido o caminho que estão tentando vender.
+
+Minha intenção principal é ajudar o próximo. Portanto, leve a sério tudo que está aqui.
+
+# Vamos começar!
+
+## Playbook do Desenvolvimento Profissional Internacional
+
+O Seu Guia Prático para ter Sucesso na Carreira Internacional!
+
+<aside>
+©️ Conteúdo criado por Alekson Fortes®.
+Utilize-o apenas para seu próprio benefício e evite seu uso para fins lucrativos.
+Infratores sujeitos a medidas legais cabíveis.
+
+</aside>
+
+## Comece por aqui
+
+<aside>
+🚀 Este playbook é o seu melhor amigo para uma carreira internacional de sucesso.
+Dividido em duas sessões, teórica e prática, ele se baseia em experiências validadas, proporcionando insights para evitar os erros comuns cometidos por muitos.
+
+A **sessão teórica** oferece o conhecimento necessário para saber o que fazer, e também vai lhe ajudar a crescer como profissional e ser humano.
+
+A **sessão prática** é o caminho para transformar seus sonhos e objetivos em realidade. É crucial seguir tanto a teoria quanto a prática para alcançar os melhores resultados! Prepare-se para a jornada rumo a uma carreira de sucesso no cenário internacional. 👨‍💻🌎
+
+</aside>
+
+## 1. Sessão Teórica
+
+## 1.1. O que o mercado internacional exige?
+
+<aside>
+🌎 Esta é uma das perguntas mais comuns sobre trabalhar em outro país, e surpreendentemente, a maioria das pessoas desconhece a resposta. Ao compreender o que é necessário, você já se destaca frente à concorrência.
+
+Os países desenvolvidos estão competindo entre si para atrair os melhores talentos globais. Basicamente, o que você precisa é de conhecimento qualificado para se tornar atraente em qualquer lugar que deseje imigrar. **Nesse guia, vou lhe ensinar como!**
+
+Como eles avaliam esse conhecimento? Através de anos de experiência, formação acadêmica, cursos e, claro, entrevistas.
+
+Tomando o Canadá como exemplo: eles buscam profissionais com formação acadêmica, especialização em uma área específica e anos de experiência. Se não tiver formação acadêmica, eles exigem um pouco mais de experiência profissional para compensar. Além disso, é essencial ter conhecimento em idiomas para ter sucesso nesse processo e estar apto a participar do processo seletivo.
+
+No meu caso, fui aprovado pela empresa canadense somente pelo meu conhecimento técnico e a capacidade de fazer a entrevista em Inglês. Com isso, fui encaminhado pelo RH da empresa para um setor de imigração que me ajudou a comprovar para o governo minha formação acadêmica através do meu diploma em tecnólogo de gestão da tecnologia, 7 anos de experiência, e que eu era um profissional em falta para a economia local do país, ocupando o cargo de analista de qualidade de software.
+
+Ao completar o seguinte checklist, você estará apto/a a **conseguir um emprego com visto de trabalho temporário** em praticamente qualquer lugar do mundo, incluindo os Estados Unidos e países europeus:
+
+- [ ] **Formação Acadêmica Completa:**
+    - Tecnólogo pode ser suficiente na grande maioria dos casos.
+- [ ] **Experiência Profissional:**
+    - 3-5 anos ou mais de experiência na área em que está buscando trabalho.
+- [ ] **Comunicação no Idioma Local:**
+    - Capacidade de se comunicar no idioma local da vaga, geralmente em inglês. Em alguns lugares, como Quebec, o francês pode ser necessário.
+- [ ] **Grau de Mestrado (Opcional):**
+    - Alguns países podem considerar um mestrado como um diferencial (nice to have), mas não é uma exigência. Por exemplo, nos EUA, pode ser relevante para certos programas de green card, mas mesmo assim não é uma exigência.
+
+A seguir, você encontrará mais informações sobre como você pode obter diretamente uma residência permanente através da formação acadêmica.
+
+</aside>
+
+<aside>
+🚨 *Este checklist é apenas o início do guia completo e prático.*
+
+_Continue estudando a teoria e colocando em prática tudo o que aprender para aumentar suas chances cada vez mais. Conheço diversas pessoas com perfis superiores aos itens do checklist, mas que falham em desenvolver as habilidades fundamentais reunidas neste guia, e por isso não conseguem ter sucesso ao buscar um trabalho no exterior. Tenho certeza de que, se você seguir a teoria e a prática delineadas aqui, alcançará resultados extraordinários em sua carreira, assim como eu alcancei na minha._
+
+</aside>
+
+## 1.2. Formação Acadêmica
+
+<aside>
+🎓 Como mencionei anteriormente, um tecnólogo pode ser suficiente na grande maioria dos casos, assim como foi para mim.
+
+Geralmente, existem dois tipos de programas de imigração para trabalhadores qualificados: um que leva diretamente à residência permanente e outro que leva a um visto de trabalhador qualificado temporário que precisa ser renovado.
+
+Quando cheguei ao Canadá, obtive o status de trabalhador qualificado com um visto temporário de 2 anos, vinculado à empresa que me patrocinou. Isso significa que, para trocar de emprego, eu precisaria de outra empresa para patrocinar meu novo visto. Perdi meu emprego durante a pandemia, o que exigiu que eu encontrasse uma nova empresa para patrocinar meu visto, ou teria que deixar o país, como muitos tiveram que fazer.
+
+O outro caminho de imigração é aquele que leva diretamente à residência permanente, e é aqui que a parte acadêmica se torna bastante importante.
+
+Esse padrão se repete na maioria dos países do mundo, e vou falar um pouco sobre os EUA para entender melhor a parte acadêmica e a residência permanente.
+
+Nos EUA, existe um programa chamado **EB2-NIW**. Esse programa concede um Green Card. Muitas pessoas precisam desembolsar milhões para obter esse status de residência nos EUA, mas o EB2-NIW é um programa focado em profissionais com habilidades excepcionais em tecnologia, negócios, ciência, cultura, saúde, ou educação, e o custo para entrar nesse caminho pode variar de 10 mil a 30 mil dólares, dependendo da credibilidade da agência de imigração que você contrata.
+
+Se você possui BACHAREL + MESTRADO, a exigência de experiência é de 5 anos na área de atuação. Se tiver doutorado, suas chances aumentam ainda mais. É importante destacar que o doutorado não é um requisito, apenas um diferencial.
+
+Agora, se você tem um tecnólogo e não possui mestrado, que é o meu caso e de muitos que obtiveram o Green Card por meio desse programa, é necessário comprovar 10 anos de experiência na área.
+
+Em resumo:
+
+- 10 anos de experiência para quem tem tecnólogo.
+- 5 anos de experiência para quem tem bacharel e mestrado.
+- Obs: existem alguns casos que bacharel sem mestrado se qualifica com 5 anos de experiência, mas pra isso recomendo se informar com uma agência de imigração.
+
+Com essas informações, você pode ter uma ideia do que é melhor para sua vida. Muitos me perguntam: tecnólogo ou bacharel? Eu escolhi tecnólogo por ser mais rápido e mais barato, mas se eu tivesse a intenção de ir para os EUA naquele momento, teria feito um bacharel e um mestrado enquanto acumulava meus 5 anos de experiência para participar do EB2-NIW. Compreende onde quero chegar?
+
+Apresentei um exemplo dos EUA, que é o país mais disputado hoje, mas se você quiser vir para o **Canadá**, eles têm um programa semelhante chamado **Express Entry**. Quanto mais estudos você tiver, mais pontos ganhará, inclusive para mestrado e doutorado. A ideia é semelhante ao programa EB2-NIW. Todos os países do mundo têm programas bastante similares, mudando apenas alguns detalhes.
+
+Recomendo que busque uma agência de imigração para o país para o qual gostaria de imigrar e se informe sobre as exigências locais para obter um visto. No meu caso, isso não foi necessário, pois obtive o visto patrocinado por oferta de trabalho, um caminho diferente que não envolve custos para mim, apenas para a empresa. Mas lembre-se: esse caminho lhe resulta somente em um visto de trabalho temporário vinculado com a empresa que lhe patrocina.
+
+</aside>
+
+## 1.3. Idiomas
+
+<aside>
+🌎 Inglês, Inglês, Inglês…
+
+Eu poderia encerrar este tópico apenas com a primeira linha.
+Inglês é uma prioridade. Pode ser interessante aprender outro idioma, como o francês para abrir portas na província de Quebec, aqui no Canadá, mas o inglês deve ser sua principal prioridade. Você vai precisar do inglês em qualquer lugar do mundo.
+
+Os melhores conteúdos da internet estão em inglês. A maioria das informações chega primeiro nesse idioma. A maioria dos melhores cursos, treinamentos, estão em inglês.
+Se você ainda não fala inglês, tenha como meta se sentir confortável ao se comunicar no idioma. Agora, um detalhe importante: **estar confortável em se comunicar não significa falar fluentemente sem erros**. Você pode cometer quantos erros quiser, desde que esteja confortável e comunicável. Esse é o nível que você precisa para passar em uma entrevista, o passo mais importante de todos. Muitas pessoas com nível intermediário conseguem passar em entrevistas, pois têm coragem e não se importam em errar.
+
+Uma vez, tive uma reunião com meu gerente canadense e mencionei que tinha receio de assumir uma posição de liderança no meu local de trabalho, pois como eu poderia ser um bom líder tendo um inglês com erros? Ele me fez uma pergunta interessante: "O que você acharia de mim se eu pudesse falar português com erros?" Parei, pensei e respondi: "Acharia incrível!" E ele replicou: "Pois então, a mesma coisa se aplica a você! Todos sabem que você fala outro idioma e que o inglês não é sua primeira língua."
+
+**O importante é se comunicar**. Claro, com o tempo, seus idiomas se tornarão mais fluentes e com _MENOS_ erros, mas jamais _SEM_ erros. Você comete erros até mesmo em português! Não espere não cometer erros em um idioma secundário.
+
+</aside>
+
+## 1.4. Websites para procurar vagas
+
+<aside>
+🕵🏼‍♂️ Sites para auxiliar na busca por oportunidades de emprego:
+
+[Talent Montreal](https://talentmontreal.com/en/jobs): Foi por meio deles que tive minha primeira oportunidade de emprego no Canadá, na empresa Intelerad. O site oferece diversas vagas em diversas áreas.
+
+[Vanhack](https://vanhack.com/): Este site é muito utilizado por profissionais da área de tecnologia que buscam oportunidades de emprego no Canadá.
+
+[Hitmarker](https://hitmarker.net/): Destinado à indústria de jogos em todo o mundo.
+
+[Indeed](https://ca.indeed.com/?r=us): Um dos sites mais populares para busca de empregos no Canadá e EUA.
+
+[Glassdoor](https://www.glassdoor.ca/Job/index.htm): Gosto de usar o Glassdoor para pesquisar empresas com avaliação de 4 estrelas ou mais. É um dos filtros que sempre aplico ao procurar empregos.
+
+Empresas que sei que patrocinam ou já patrocinaram vistos no Canadá:
+[Intelerad](https://careers.intelerad.com/)
+[Behaviour](https://www.bhvr.com/jobs/)
+[Ubisoft](https://www.ubisoft.com/en-us/company/careers/search?countries=ca)
+[CGI](https://www.cgi.com/en/careers)
+[SII Canada](https://sii-group.com/en-CA/offers)
+[Astek](https://astek.ca/en/carreer/)
+
+Empresas que sei que contratam remotamente:
+[Fortis Games](https://www.fortisgames.com/careers/)
+[IronBelly](https://ironbellystudios.com/career/)
+[Tucows](https://www.tucows.com/careers/opportunities)
+[Gitlab](https://about.gitlab.com/jobs/)
+[Redhat](https://www.redhat.com/en/jobs)
+[Questrade](https://www.questrade.com/about-us/careers)
+[Upstart13](https://upstart13.com/careers/)
+
+</aside>
+
+## 1.5. Como preparar o CV e LinkedIn?
+
+<aside>
+📃 ***Tudo o que você aprender na sessão prática vai ajudá-lo a criar um excelente CV. Após concluir a sessão prática, atualize seu CV com base na seguinte teoria:***
+
+A maioria das empresas utiliza o sistema ATS para filtrar a enorme quantidade de currículos que recebem. Com isso, é necessário criar um CV preparado para um sistema ATS e, ao mesmo tempo, chamar a atenção da pessoa que o lê.
+
+Existe um sistema chamado [**_Jobscan_**](https://www.jobscan.co/) para ajudá-lo a criar o CV. Ele permite testar seu CV contra qualquer vaga que você queira aplicar para saber se há um match ideal.
+
+**_[Aqui](https://www.jobscan.co/resume-templates)_** eles oferecem modelos de CV que são ATS friendly. Sugiro que você utilize algum dos disponíveis na lista. É melhor ter um CV funcional do que um CV bonito que não chegue às pessoas que precisam recebê-lo.
+
+Basicamente, você precisa montar o CV no padrão que o Jobscan está recomendando nos modelos. Você também tem 5 job scans gratuitos por mês, utilize-os com inteligência!
+
+**Resumindo o que o Jobscan sugere:**
+
+- Criar um CV que seja ATS-Friendly
+- Testar o CV nas vagas para as quais você tem o perfil através do sistema deles
+- Ajustar o CV com as recomendações do sistema até que você obtenha 75% de match com a vaga
+
+Ter um CV que dê match de 75% ou mais aumenta suas chances de passar no ATS e chegar à equipe de recrutamento. Sabe aquelas vagas que têm mais de 100 candidatos? 90 delas provavelmente têm menos de 40% de match. Só de ter um CV preparado para a vaga vai ajudar MUITO a ter mais entrevistas.
+
+Sobre o **LinkedIn**: Eu praticamente faço um espelho do meu CV no LinkedIn e sempre deixo atualizado de acordo com meu último CV, a diferença é que eu não atualizo as tarefas do trabalho atual para não parecer que estou querendo encontrar outro emprego para as pessoas que trabalham comigo. O LinkedIn foi minha porta de entrada para a entrevista que me trouxe para o Canadá. Como eu não tinha meu CV em mãos, falei para os recrutadores que encontrei na conferência que estava para olharem meu LinkedIn e foi assim que eles viram que eu tinha o perfil que eles precisavam. Deixe seu CV e LinkedIn sempre atualizados, você nunca sabe a hora que vai precisar deles!
+
+Outro ponto importante do LinkedIn: Entre nas vagas que você gostaria de trabalhar e veja quais são as habilidades que a vaga exige. Se você tiver a habilidade, adicione-a ao seu perfil. Isso ajuda os recrutadores a lhe encontrar. Isso também ajuda na hora que você aplica para uma vaga através do perfil do LinkedIn.
+
+</aside>
+
+## 1.6. Como se preparar para uma entrevista?
+
+<aside>
+💼 A maioria das pessoas não se dedicam para estudar as vagas para as quais aplicam, entrando despreparadas e, por consequência, sendo facilmente eliminadas nos processos seletivos. Este é um ponto crucial para você ganhar confiança. Em vez de se preocupar com os mais de 100 concorrentes para cada vaga, lembre-se de que a maioria deles não se prepararam para o processo seletivo.
+
+Aqui, vou lhe mostrar como você pode se destacar:
+
+Com a facilidade atual de se candidatar a vagas, manter um controle de todas as aplicações pode ser um desafio. Recomendo criar uma planilha para listar todas as vagas para as quais enviou seu currículo. Quando você tem controle sobre as vagas, é mais fácil localizar a descrição da vaga, informação crucial para o seu sucesso. Geralmente, quando a pessoa responsável pelo recrutamento responde, ela não especifica a vaga à qual está se referindo. Imagine iniciar uma conversa sem saber qual vaga está sendo mencionada.
+
+Antes de conversar com o recrutamento, estude minuciosamente todos os detalhes da descrição da vaga. Conheça suas habilidades e limitações. Seu objetivo é estar preparado(a) para destacar seu valor nas áreas em que se destaca e responder adequadamente sobre as áreas em que precisa melhorar.
+Por exemplo, se a vaga exige inglês e liderança, mas você não teve experiência formal como líder, destaque suas habilidades em inglês quando questionado sobre o idioma. Quando questionado(a) sobre liderança, mencione atividades em que atua como líder em outros contextos, como em grupos informais ou em atividades esportivas.
+É essencial compreender seus pontos fortes em relação à vaga e, ao mesmo tempo, estar ciente das suas limitações, que são as áreas em que pode ter uma desvantagem em relação à concorrência para poder dar a melhor resposta possível.
+
+Outro ponto crucial que muitos negligenciam é o aspecto emocional. Por isso, sempre defendo um investimento significativo em soft skills. Neste playbook, você encontra uma introdução sobre soft skills na seção 1.8, e recomendo que continue a investir nessa área. Controlar suas emoções, manter a calma e a tranquilidade durante uma entrevista são fatores essenciais para o sucesso. Nas minhas primeiras entrevistas, eu sentia muito medo, mas com a prática, ganhei conforto em participar de entrevista com profissionais de todos os níveis de uma empresa. Investir em inteligência emocional é fundamental para superar esses desafios. Participar de entrevistas para cargos menos desejados, apenas para ganhar habilidades, é uma excelente maneira de adquirir experiência.
+
+Teste seu valor, explore o mercado e aprenda com a prática!
+
+</aside>
+
+## 1.7. Participando de entrevistas!
+
+<aside>
+🤝 Neste tópico vamos abordar as coisas que você deve fazer e aquelas que jamais deve fazer em uma entrevista.
+
+**FAZER**:
+**Focar no seu sucesso e resultados**: Tenha sempre uma história pronta para contar seus resultados. Quando perguntarem se conhece algum assunto, apresente resultados relacionados a esse assunto. Um exemplo que tenho comigo e sempre utilizo: se me perguntarem sobre minhas habilidades de comunicação, eu respondo: "Consigo me comunicar em quatro idiomas, tenho habilidades para palestrar e gravar vídeos, e já fui presidente de um clube Toastmasters, onde ajudei pessoas a se desenvolverem na área de comunicação." Respostas assim impressionam qualquer entrevistador.
+
+**Adaptar-se às necessidades da empresa:** Mostre como suas habilidades e experiências estão alinhadas com as necessidades específicas da empresa.
+
+**Comunicar-se claramente:** Articule suas respostas de maneira clara e concisa. Evite respostas muito longas ou confusas.
+
+**Tenha perguntas para fazer**: quando lhe perguntam se você tem alguma pergunta, sempre as faça. Isso demonstra interesse seu na empresa. Uma pergunta que gosto de fazer é perguntar quais são os pontos ruins que a pessoa que está lhe entrevistando vê na empresa em que trabalha. Gosto de fazer essa pergunta quando há um clima de distância entre entrevistador e entrevistado. E também gosto da pergunta sobre o que ela mais gosta após realizar a pergunta anterior. Essa geralmente cria uma conexão após o choque que a primeira pergunta causa.
+
+**Follow-up após a entrevista:** Envie um e-mail de agradecimento após a entrevista, expressando sua gratidão pela oportunidade e reafirmando seu interesse na posição. Adicione material complementar a sua entrevista. Exemplo: Caso tenha falado de algum projeto pessoal que tenha realizado, adicione links para esse projeto no email.
+
+**JAMAIS FAZER:**
+**Mentir**: Eu já entrevistei muitas pessoas ao longo da minha carreira. É muito fácil identificar quando alguém está mentindo, especialmente quando já conhecemos a resposta da pergunta e estamos em uma posição sem pressão alguma. Se você não sabe a resposta, jamais minta ou invente uma resposta para evitar dizer que não sabe. É preferível admitir a falta de conhecimento do que mentir. JAMAIS minta.
+
+**Enrolar**: Similar a mentir, enrolar quando não sabe responder é tão ruim quanto. Muitas pessoas preferem dar uma resposta completamente diferente da pergunta apenas para evitar dizer "não sei". Aprenda a dizer "não sei". Admitir que não sabe, mas que fará o possível para aprender, é uma abordagem eficaz em entrevistas. Quando entrevisto alguém, sempre procuro identificar o "ponto de humildade" da pessoa. Esse ponto de humildade é quando alguém reconhece que não sabe, e eu sempre busco isso para avaliar se a pessoa entrevistada é humilde para trabalhar em equipe. Imagine trabalhar com alguém que sempre pensa que sabe tudo? Jamais seja essa pessoa.
+
+**Falar mal de alguém ou de uma empresa**: Nas minhas primeiras entrevistas enquanto buscava emprego, eu costumava reclamar dos lugares onde estava como uma justificativa do porquê eu queria trabalhar no local em que estava sendo entrevistado. Dizia coisas como: onde estou não é legal, onde estou não tem isso, falta aquilo, etc. Eu sempre focava em falar mal de alguém, da empresa ou de alguma outra coisa. Até que eu percebi que isso não estava sendo bem visto em uma entrevista. Na verdade, eu tinha uma mentalidade muito negativa que estava sendo demonstrada na entrevista e, consequentemente, estava me eliminando de todos os processos seletivos. Jamais seja essa pessoa negativa! Jamais reclame de algo nas entrevistas. Quando lhe perguntarem o motivo de estar fazendo uma entrevista, foque em dizer que quer evoluir ainda mais na sua carreira, que está ali para encontrar um trabalho melhor do que o que já tem, sem dar a entender que o trabalho atual seja ruim. Entrevistadores procuram pessoas positivas, com uma mentalidade de solucionar problemas, e não uma mentalidade que reclama de tudo e que provavelmente vai reclamar dos futuros empregos. Aprenda a perceber o lado positivo das coisas!
+
+</aside>
+
+## 1.8. Soft Skills
+
+<aside>
+🗣️ Quanto mais você investir em Soft Skills, maiores serão as suas chances de ter sucesso na vida. O seu desenvolvimento profissional depende do seu desenvolvimento pessoal. Eu comecei com desenvolvimento pessoal, ou como alguns chamam, Soft Skills, em 2009. Meu primeiro contato com essa área foi através de um seminário sobre autoestima de 2 dias que mudou minha vida. Desde então, comecei a ler livros, fazer cursos e consumir conteúdo desse assunto.
+
+Esse guia não é sobre Soft Skills, mas eu fortemente recomendo que você invista nessa área, pois, ao morar fora, você vai precisar de soft skills para ter sucesso. Morar fora não é fácil. Você vai ter desafios que não temos no país onde nascemos. Construir uma vida do zero em um novo local com uma cultura e pessoas diferentes não é para todos.
+
+Lembre-se também de que até conseguir chegar no exterior, você ainda tem uma vida para viver no local em que você se encontra. Soft Skills são essenciais para ter sucesso e paz de espírito durante sua jornada em qualquer momento da sua vida.
+
+Neste guia, compartilho 3 caminhos que servem em qualquer lugar que você estiver:
+
+- Comunicação: Estamos sempre nos comunicando, mesmo quando não falamos nada, estamos passando uma mensagem para as outras pessoas através da comunicação não verbal. Se você tem problemas com comunicação no seu idioma nativo, imagine falando em outro idioma. Comunicar uma ideia, comunicar-se com colegas de trabalho, liderar pessoas, tudo requer habilidades, e a boa notícia é que essas habilidades podem ser desenvolvidas. Existe um grupo chamado Toastmasters que o ajuda a desenvolver sua comunicação, e o investimento para fazer parte do grupo é baixíssimo. Eu comecei no Toastmasters como alguém que tinha medo de falar em público e, em pouco tempo, me tornei palestrante e líder de um clube, o que me ajudou a ir a uma conferência para palestrar e, consequentemente, encontrar a primeira empresa que me trouxe para o Canadá.
+
+- Networking: A maioria dos meus trabalhos foi através de networking. Quando eu trabalhei em uma das maiores empresas de jogos do planeta, foi porque consegui uma indicação de um amigo que trabalhava na empresa. Não estou dizendo que sem networking você não vai conseguir emprego, mas sim que isso vai abrir portas para mostrar seu potencial em entrevistas. Networking foi exatamente o que aconteceu comigo na conferência que citei anteriormente. Fui para palestrar e acabei fazendo networking com uma empresa que precisava de um profissional qualificado para ocupar uma vaga. Networking é algo tão fácil de praticar, mas concordo que no início pode parecer algo assustador para quem tem medo de falar com pessoas, como era o meu caso anos atrás. Hoje, não me importo em adicionar alguém no LinkedIn e pedir ajuda sobre algum assunto. Isso é uma das formas mais fáceis de se conectar com alguém! Participar de eventos, de clubes, de cursos e mentorias são excelentes escolhas para melhorar o seu networking, mas deixei para o final o melhor método de se destacar nessa área: Compartilhar conhecimento e ajudar os outros sem esperar nada em troca. Quando você faz isso, as pessoas vão lembrar de quanto você as ajudou, e um dia elas vão retribuir. É normal do ser humano querer retribuir toda ajuda que recebemos, então quanto mais você ajudar, maiores são as suas chances de receber essa ajuda futuramente. Mas lembre-se: ajudar sem esperar nada em troca. Recomendo que você comece a compartilhar seu conhecimento, a se tornar uma referência no que você faz, pois isso ajuda até mesmo na hora de conseguir um visto de trabalho em outro lugar do planeta. Recrutadores adoram pessoas que ajudam a comunidade e governos adoram dar vistos para referências.
+
+- Inteligência Emocional: Todas as nossas limitações na vida têm uma emoção por trás, e o melhor jeito de eliminar as limitações é identificar qual o motivo e a emoção que estão vinculados a cada limitação. Ter consciência disso é algo para pouquíssimos seres nesse planeta. As pessoas vivem uma vida superficial que elas nem percebem que existem emoções influenciando seus comportamentos e suas identidades. Existem diversas maneiras de você criar a consciência das suas emoções. Meditação é uma delas. Existe um retiro de meditação que se chama Vipassana. Ele existe em diversos lugares do mundo e é um retiro de 10 dias de silêncio e meditação, onde você se dedica a olhar para dentro da sua mente e ficar em paz com sua vida. Para quem prefere algo menos intenso do que 10 dias meditando, recomendo a minha ferramenta favorita: Programação Neurolinguística. Essa ferramenta mudou a minha vida, me ajudou a aumentar minha consciência em diferentes níveis, e a eliminar diversas limitações que eu carregava do meu passado.
+
+Como falei no início desse tópico, esse guia não é sobre soft skills, por isso lhe dei um pouco de 3 caminhos que existem nesse mundo infinito. Recomendo buscar desenvolvimento pessoal para aumentar as suas chances de ter sucesso no seu desenvolvimento profissional. Foi essa área que me ajudou a chegar aonde cheguei.
+
+</aside>
+
+## 1.9. Saúde Financeira
+
+<aside>
+💰 O caminho que estou lhe ensinando não requer que você tenha dinheiro, mas eu super recomendo que você comece a economizar para ter mais liberdade na hora de mudar de país. Quando recebi minha oferta de trabalho, a empresa contratou uma consultoria que me ajudou com o deslocamento para o Canadá. Eu estava passando por um momento difícil financeiramente na minha vida, acumulando dívidas no Brasil, e por isso não tinha dinheiro nenhum para vir para o Canadá. Em vez de escolher a opção de ficar em um hotel no primeiro mês aqui, precisei ir para o porão da casa de uma senhora que aceitava estudantes pois era bem mais barato. Vim com dinheiro contado, pois a empresa só iria me reembolsar pelo primeiro mês de hospedagem após meu primeiro pagamento. Sofri muito no início da minha jornada no exterior pois não tinha uma reserva financeira, pelo contrário: precisei enviar boa parte do que ganhei nos meus primeiros anos para pagar as dívidas que tinha no Brasil. O que me salvou e mudou minha relação com o dinheiro foi um treinamento chamado Millionaire Mind Intensive. Foi um seminário em São Paulo que mudou minha relação com o dinheiro, e eu fiz um mês antes de sair do Brasil. Hoje tenho dinheiro guardado, invisto boa parte do meu salário e tenho MUITO mais paz de espírito em relação à minha carreira profissional, pois o dinheiro deixou de ser um problema. Recomendo você fazer as pazes com o dinheiro caso esteja no mesmo lugar em que eu estava no Brasil, e se dinheiro não é um problema para você: sinta-se ainda mais preparado(a) para caminhar no caminho que vai te levar para o exterior.
+
+</aside>
+
+## 1.10. Você é a média das pessoas ao seu redor
+
+<aside>
+🪞 Vou contar uma história sobre quando cheguei ao Canadá. Na época, meu salário era de 75 mil dólares por ano, o que era muito mais alto do que eu ganhava no Brasil. Ao mesmo tempo, um amigo também chegou ganhando o mesmo salário e, no nosso primeiro Natal, ele me disse que sua meta era dobrar sua renda. Achei que ele estava louco, pois como seria possível ganhar mais de 100 mil dólares por ano como desenvolvedor de software? Agora, preste atenção...
+
+Não demorou muito para que ele começasse a ganhar 120 mil! Quando percebi que ele tinha alcançado algo que eu achava impossível, percebi que eu também poderia conseguir. Depois disso, não demorou muito para que eu também aumentasse drasticamente minha renda! Hoje ganho mais do que os 120 mil que eram o limite do nosso círculo, e acredito que seja possível aumentar ainda mais minha renda.
+
+Moral da história: se você está cercado por pessoas que ganham todas 75 mil, dificilmente perceberá que é possível ganhar mais do que a média das pessoas ao seu redor.
+
+Isso também se aplica aos seus objetivos de vida. Se você está cercado por pessoas que lhe desmotivam, que dizem que morar no exterior não é para você, que ganhar bem não é possível... Você ficará limitado a essa realidade! Pois essa é a única realidade que você conhece.
+
+Sinta-se privilegiado por estar lendo isso hoje. Estou aqui para lhe ajudar a elevar o seu padrão de realidade. Quero que você pense grande como eu. Desejo que você tenha o mesmo sucesso que eu tive, ganhando bem, morando em um lugar de primeiro mundo e tendo todas as oportunidades que tive ao morar fora. Se eu consegui, é porque é possível, e você também pode conseguir!
+
+Comece a prestar atenção nas pessoas ao seu redor. Observe as limitações que elas possuem e questione-se se você não está se limitando ao conviver com pessoas limitadas que lhe desmotivam.
+
+Você é a média das pessoas ao seu redor. Isso vale para os contatos na vida real e também para o conteúdo online que você consome!
+
+</aside>
+
+## 1.11. Rejeição
+
+<aside>
+⛔ Eu sofri rejeição desde cedo na minha vida pois eu era obeso. A escola foi um dos piores lugares que experienciei, pois precisava lidar com a rejeição todos os dias devido ao meu peso. Também enfrentei rejeição por parte de parentes, que praticavam bullying pelo mesmo motivo. Sabe o que foi bom nisso? Aprendi a lidar com o "não" desde cedo. Em processos seletivos, você vai receber "não" o tempo todo.
+
+Até conseguir meu primeiro "sim" para me mudar para o Canadá, recebi, no mínimo, uns 50 "nãos" em entrevistas. Isso inclui todos os anos do período de 2009 a 2018, nos quais precisei fazer entrevistas para ingressar na área, entrevistas enquanto estive na Irlanda para aprender inglês, entrevistas após meu retorno e já com experiência na área de atuação, e entrevistas para conseguir um trabalho no exterior, o que eventualmente resultou na mudança para o Canadá.
+
+A principal mensagem aqui é: não deixe que o **não** de nenhuma empresa abale você! Para cada **não** que receber, saiba que está mais próximo(a) de receber o **sim**.
+
+Se hoje você estiver enfrentando rejeição, lembre-se de que eu também passei por isso e consegui superar. Isso significa que você também consegue!
+
+</aside>
+
+## 1.12. Mentoria
+
+<aside>
+💡 O último tópico de nossa sessão teórica é sobre mentoria. Recomendo que você busque mentoria com pessoas que alcançaram o que você deseja conquistar. Por exemplo, se você quer aprender programação, procure uma mentoria nessa área. Se seu foco são as soft skills, busque orientação nesse campo.
+
+Uma vez que você aprende a valorizar seu tempo, dinheiro, e vida, você percebe que qualquer atalho para alcançar seus objetivos mais rapidamente vale o investimento.
+
+Outra vantagem é que, ao participar de uma mentoria, você se aproxima de pessoas que compartilham objetivos semelhantes. Lembra que você é a média das pessoas ao seu redor?
+
+E a parte mais importante de todas: escolha sua mentoria com cuidado. Busque pessoas que colocam em prática o que ensinam. Imagine se este guia fosse escrito por mim no início da minha carreira, sem as experiências vividas, apenas com o que eu achava que funcionaria e com o conhecimento limitado de 2009. Seria confiável? O mesmo se aplica à escolha de uma mentoria. Procure mentores que estejam onde você deseja estar e invista nessa orientação para acelerar seus resultados!
+
+</aside>
+
+## 2. Sessão Prática
+
+## 2.1. Definindo sua carreira ideal
+
+<aside>
+🧞 Você chegou ao momento mais importante da sessão prática! Imagine que você acabou de encontrar o gênio da lâmpada e ele lhe deu apenas a opção de desejar a sua carreira ideal. Como seria o seu pedido para o gênio?
+
+Aqui é o momento para você detalhar tudo o que você quer para a sua carreira! Imagine que você está vivendo no futuro e que você se tornou a pessoa que você quer ser. Como seria?
+
+Se você não tivesse nenhuma limitação na sua imaginação e pudesse escolher exatamente o que gostaria de ser, como seria?
+
+Qual área você está trabalhando? Em qual país você está vivendo? Quais idiomas você fala? Quais empresas você gostaria de trabalhar? Quais tecnologias você domina? Quais soft skills você possui? Detalhe tudo o que você puder imaginar!
+
+</aside>
+
+**Atividade para você realizar**
+Ao final desta atividade, você deve ter algo similar a esse exemplo:
+
+Sou uma referência reconhecida na área de TI em todo o mundo e moro no Canadá. Sou um líder, atuando como embaixador dos princípios ágeis e DevOps na area de Teste de Software.
+Oriento o pensamento estratégico, integração e otimização das atividades de qualidade. Sou um defensor da melhoria contínua. Possuo amplo conhecimento em Testes, Programação e Automação. Trabalho porque amo e quero, não porque preciso, e ainda tenho um excelente salário. Estou em um ambiente maravilhoso, com pessoas incríveis que querem crescer a cada dia. Meu chefe é muito bom, ele/ela me escuta, é um verdadeiro líder e me ajuda na minha carreira. Falo inglês, português, francês e espanhol fluentemente. Tenho facilidade em falar em público e expressar as minhas ideias.
+
+## 2.2. Encontrando o seu trabalho dos sonhos
+
+<aside>
+👩🏼‍💻 É hora de explorar o site das empresas que você tem interesse em trabalhar e catalogar as posições que despertam o seu interesse.
+
+Para exemplificar, vou usar uma vaga na empresa **Blizzard**:
+
+**Test Lead II, WoW Development Tools**
+
+**Requirements**:
+Bachelor’s degree in a related field or equivalent experience
+Experience leading test teams/initiatives: 3+ years
+Experience with white/gray/black box and automation test methods
+Experience working in an embedded QA engineering team
+Passion for video games and software quality
+
+**Pluses**:
+Coding knowledge: XML/HTML, JavaScript, Python, Java, C/C++/C#, SQL
+Experience working within a professional environment with large code bases in C#
+Certifications: PMP, Scrum Master and/or Product Owner, ISTQB
+Familiarity with Blizzard Entertainment's line of products and services
+
+</aside>
+
+**Atividade para você realizar**
+
+Liste pelo menos 5 vagas em empresas diferentes, assim como fiz no exemplo. Inclua o nome da vaga e os requisitos. Caso queira adicionar mais informações sobre a vaga, fique à vontade. Não listei todos os detalhes para não poluir o documento.
+
+Ao final desta atividade, você deve ter algo similar a esse exemplo:
+
+**Vaga da empresa 1: Test Lead II, WoW Development Tools**
+Bachelor’s degree in a related field or equivalent experience
+Experience leading test teams/initiatives: 3+ years\
+Experience with white/gray/black box and automation test methods
+etc
+...
+
+**Vaga da empresa 3**
+Requisito 1
+Requisito 2
+Requisito 3
+etc
+…
+
+**Vaga da empresa 5**
+Requisito 1
+Requisito 2
+etc
+
+_A proposta aqui é identificar os requisitos mais frequentes. Ao conhecer os requisitos mais frequentes, você terá clareza sobre quais áreas de aprendizado merecem mais atenção. Para ser o(a) candidato(a) perfeito para a empresa, é necessário atender à maioria dos requisitos da vaga. Concentre-se na empresa que mais deseja, mas lembre-se de que a empresa dos seus sonhos nem sempre é a que tem as portas abertas. Às vezes, trabalhar para a empresa que está em quinto lugar na sua lista pode ser a única opção. Por isso, é importante se preparar para o mercado de trabalho e priorizar os requisitos mais frequentes entre todas as 5 empresas que você listou._
+
+## 2.3. Definindo suas metas
+
+<aside>
+📖 Após definir sua carreira ideal e obter informações sobre os requisitos necessários para o seu trabalho dos sonhos, você irá estabelecer metas menores e relacionadas para alcançar essa carreira ideal. É como se estivesse criando um produto e dividindo-o em pequenas entregas. A ideia é exatamente a mesma. Transforme seu grande sonho de carreira ideal em pequenas entregas (metas). Utilize todo o conhecimento adquirido em sua pesquisa sobre o trabalho dos sonhos para validar se as metas da carreira ideal estão de acordo com o que o mercado de trabalho está exigindo.
+
+De prioridade para metas SMART, lembre-se de que elas devem ser:
+
+- Específicas (Specific): claras e direcionadas para a sua carreira ideal.
+- Mensuráveis (Measurable): estabeleça critérios para medir o alcance das metas.
+- Atingíveis (Achievable): realistas e considerando seus recursos e habilidades.
+- Relevantes (Relevant): alinhadas com seus objetivos de longo prazo.
+- Com prazo definido (Time-based): estabeleça prazos para manter o foco e avaliar o progresso.
+  </aside>
+
+**Atividade para você realizar**
+Exemplo:
+
+Suponhamos que ainda não alcancei o que descrevi como ideal em minha carreira: "Ter facilidade em falar em público e expressar minhas ideias".
+Para atingir esse objetivo, estabelecerei uma meta:
+
+**Meta 1:** Desenvolver habilidade em falar em público e expressar ideias.
+Realizar uma palestra até o final de 2025.
+
+Outro exemplo:
+
+Digamos que ainda não alcancei um dos requisitos mais comuns para as vagas de emprego dos meus sonhos: "Conhecimento em programação Python intermediário".
+Criarei uma segunda meta para atingir esse objetivo:
+
+**Meta 2:** Dominar conhecimento intermediário em programação Python.
+Concluir a formação XYZ em Python intermediário até julho de 2024.
+
+A proposta é ter uma lista de metas, de modo que ao alcançá-las, você adquira todos os requisitos solicitados nas vagas dos seus sonhos. Organize as metas com base na prioridade, considerando a frequência com que são requisitadas nas vagas. Adicione também metas relacionadas à sua aspiração profissional para moldar a pessoa que você deseja ser. O foco é compreender o que precisa aprender, priorizando as metas de acordo com a relevância.
+
+## 2.4. Quadro de Metas
+
+<aside>
+🎯 Aqui está o seu quadro kanban pessoal.
+Instruções de uso:
+
+1. Preencha a coluna "To-do" com todas as suas metas definidas no passo anterior.
+2. Deixe as metas em ordem de prioridade para você saber qual puxar para o "In progress" primeiro.
+3. Seja inteligente com a sua capacidade de fazer coisas ao mesmo tempo e gerencie bem seu tempo e sua energia para dar conta de toda a sua lista de metas.
+ </aside>
+
+**Ferramenta bônus para você utilizar:**
+
+[Metas para conquistar meu trabalho internacional:](https://www.notion.so/cedb29c5967f471e921f3ceba9adbb96?pvs=21)
+
+## 2.5. Checklist Diário
+
+<aside>
+✅ Aqui está um checklist diário de tarefas.
+Instruções de uso:
+
+1. Preencha a coluna "**Fiz o meu melhor em...**" com as tarefas que você gostaria de realizar diariamente. Por exemplo: Aprender idioma.
+2. Para cada dia em que você completar a tarefa, marque um X no checklist.
+3. Isso ajudará você a desenvolver hábitos e a se comprometer com seus objetivos.
+ </aside>
+
+**Ferramenta opcional para você utilizar:**
+
+![image](https://github.com/Yagasaki7K/website-yagasaki/assets/23272064/64a90fad-e278-44df-ad77-5ac134505a45)
+
+## 2.6. Checklist Final
+
+<aside>
+🎉 Aqui está o checklist final, que é o resumo de tudo o que você aprendeu e do que você precisa fazer para conquistar o emprego dos seus sonhos!
+
+</aside>
+
+- **Formação Completa**
+- **Experiência Profissional**
+- **Capacidade de se comunicar no idioma do local desejado**
+- **Definir a sua carreira ideal**
+- **Pesquisar as 5 vagas dos seus sonhos**
+- **Definir suas metas de aprendizagem**
+- **Aprender os requisitos mais frequentes exigidos pelas vagas**
+- **Curriculum pronto**
+- **LinkedIn atualizado**
+- **Enviar um currículo personalizado para cada vaga com match de perfil**
+- **Participar do primeiro processo seletivo**
+- **Caso o primeiro não dê certo, continue com outros processos seletivos até ser aprovado**
+- **Conquistar o emprego dos seus sonhos! 🎉🎉🎉**

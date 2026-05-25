@@ -1,0 +1,111 @@
+---
+title: "Dimensionando equipes de engenharia por meio de RFCs: anotando as coisas"
+excerpt: "Essa metodologia vai simplesmente mudar como você se organiza"
+image: "https://images.unsplash.com/photo-1512758017271-d7b84c2113f1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+tags: ["RFCs", "Engineering Teams"]
+date: "2023-12-17"
+---
+
+![Daria Nepriakhina 🇺🇦](https://images.unsplash.com/photo-1512758017271-d7b84c2113f1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+De antemão, já informo que esse é um artigo original do Gergely Orozz, e foi traduzido por mim. Como o conteúdo é muito completo,
+não vi necessidade de fazer adaptação ou alterar qualquer coisa nele, se estiver interessado, é só ler o [artigo original em inglês](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs?ref=yagasaki.dev/blog)
+
+--
+
+Recentemente, tenho conversado com pequenas e médias empresas, compartilhando as melhores práticas de engenharia que vejo usarmos na Uber, que eu recomendaria que qualquer empresa de tecnologia adotasse à medida que cresce. O único tópico que mais levanta as sobrancelhas e também solta uns momentos "aha!" é sobre como funciona o processo de planejamento da engenharia desde os primeiros anos do Uber.
+
+Ao trabalhar em grandes empresas como a Microsoft ou em empresas menores como o Skyscanner, houve duas coisas relacionadas ao planejamento que sempre me incomodaram. Primeiro, a falta de visibilidade de outros que estão construindo ou tendo construído a mesma coisa que minha equipe. Em segundo lugar, a dívida tecnológica e arquitetónica acumulada devido a diferentes equipas construírem coisas de forma muito diferente, tanto em termos de abordagem como de qualidade.
+
+<!--truncate-->
+
+E se eu dissesse que existe uma maneira de resolver esses dois problemas muito bem, usando algumas etapas simples? Um aviso: uma das etapas parecerá um pouco maluca. Aqui estão eles:
+
+1. **Faça um planejamento antes de construir algo novo.** Isso pode ser feito pessoalmente ou apenas conversando com os membros da equipe, desde que você tenha certeza de como fará as coisas.
+
+- **Registre esse plano em um documento curto e escrito.** Assim que estiver claro para a equipe como e o que você faz, será relativamente rápido escrever o "como" . Não exagere.
+- **Faça com que algumas pessoas selecionadas aprovem este plano antes de começar a trabalhar.** Semelhante a como é uma porta de boa qualidade mesclar uma pull request somente depois que alguém fizer uma revisão, faz uma grande diferença se, antes de iniciar o trabalho em um projeto, algumas pessoas relevantes validarem o trabalho planejado. Podem ser engenheiros seniores, pessoas de uma equipe que usarão o recurso e assim por diante.
+- **Envie este documento de planejamento para todos engenheiros da empresa** e deixe que todos comentem sobre isto. Sim, esta é a etapa que provavelmente parece loucura.
+- **Faça com que todos sigam as etapas acima** para cada projeto que esteja além de alguma complexidade super trivial e itere em um processo leve, tipo [RFC< /span>](https://en.wikipedia.org/wiki/Request_for_Comments?ref=yagasaki.dev/blog) para que funcione bem para sua organização ou empresa.
+
+**Por mais improvável que possa parecer, o processo acima funciona e é muito bem dimensionado**, desde um punhado de engenheiros até equipes de milhares. Ele aborda não apenas questões de visibilidade ou redução do débito de tecnologia/arquitetura, mas também de difusão de conhecimento e de maior engajamento dos engenheiros no dia a dia. Este é o processo simples que recomendo a qualquer equipe de tecnologia de pequeno ou médio porte, especialmente se estiver em fase de crescimento. É também o processo que usamos e repetimos com sucesso na Uber, passando de dezenas de engenheiros para alguns milhares.
+
+## O poder de escrever coisas
+
+Escrever e compartilhar essa escrita com outras pessoas cria responsabilidade. Também quase sempre leva a decisões mais completas. Uma maneira simples de aumentar a qualidade do código? Faça a revisão do código por escrito, antes de mesclar. Uma maneira simples de fazer com que uma reunião seja menos perda de tempo? Tenha uma agenda escrita antes da reunião e, em seguida, escreva e envie as decisões e ações posteriormente. Uma maneira simples de executar projetos com menos surpresas? Peça à equipe que escreva o que está planejando fazer e compartilhe com outras pessoas.
+
+Nós, engenheiros, odiamos desperdiçadores de tempo. A documentação é frequentemente vista como uma dessas perdas de tempo, principalmente porque é chata de fazer. O planejamento é frequentemente visto como uma espécie de documentação, portanto há uma tendência natural de simplesmente pular esta etapa para obter eficiência. Eu gosto de inverter esse argumento sobre como economizar tempo.
+
+**Se todos concordarem como o projeto deve ser feito, escrever a abordagem será muito fácil.** Basta capturar o entendimento compartilhado sobre o que é a abordagem, o que mudanças na arquitetura serão feitas, quais são as partes complicadas. Alguém da equipe deve ser capaz de fazer isso em algumas horas, e os outros membros da equipe concordam depois de ler. Normalmente, vejo isso sendo menos direto. "_Não foi isso que eu quis dizer quando conversamos._" ou "_E esse importante caso extremo esquecemos?_" e "_Se mudarmos isso aqui, isso poderá quebrar essa outra parte do sistema_" são coisas que muitas vezes surgem ao escrever o plano. É ótimo ter essas discussões antes de ter as mesmas realizações quando o projeto estiver na metade.
+
+E quando as pessoas não concordam com a forma como o projeto deve ser feito ou quando há muitas mudanças? Isso já parece um projeto que levará muito mais tempo do que as pessoas pensam - pelo menos anotar as coisas deve dar uma imagem mais clara.
+
+## Revisores e disseminação de conhecimento em toda a organização
+
+Embora escrever seja uma boa maneira de organizar os pensamentos, é um exercício muito diferente quando escrevemos para outra pessoa entender. É uma boa ideia especificar quem precisa ler este documento e dar um joinha. Depois que o plano for redigido, a maneira mais segura de garantir que as pessoas realmente leiam o documento é exigir que elas confirmem exatamente isso - por escrito, por meio, por exemplo, de um documento. um comentário.
+
+> _Oi, Yagasaki aqui, só interrompendo rapidinho, a abordagem que optei por utilizar esse método com a Kalify, que é uma organização open source, foi simplesmente criar issues nos scrumboards especificamente para isso, assim, toda a comunidade terá acesso, além de poder comentar, abrir uma pull request diretamente por lá e várias outras interações que só agregam valor ao projeto e quem está dando manutenção e orientando sobre a solução do problema._
+
+A parte de enviar o plano de como esse projeto será construído, para toda a organização de engenharia, via e-mail, é algo que pode parecer loucura. As pessoas muitas vezes se preocupam com a possibilidade de isso criar muito barulho. Isso é verdade e não. Os níveis de ruído certamente aumentarão. Felizmente, os filtros de e-mail são fáceis de criar - basta facilitar a filtragem desses tipos de e-mail. Ao mesmo tempo, há muito menos planos de projetos sendo enviados, mesmo com um tamanho de engenharia na casa das centenas ou milhares, do que as pessoas normalmente esperam.
+
+**O tipo de informação enviada às pessoas em uma organização molda consideravelmente a cultura.** Ter uma organização com uma cultura para enviar planos de engenharia a todos (por exemplo, por e-mail) e convidar qualquer pessoa que comente estabelece um tom de confiança e responsabilidade. Durante meus primeiros meses na Uber, eu costumava ficar obcecado em ler documentos de planejamento de diversas equipes, citando aqueles em que eu tinha conhecimento de domínio relevante, por exemplo, na tecnologia. Nesses primeiros meses, aprendi muito mais sobre o que outras equipes trabalhavam do que em anos trabalhando em uma grande empresa onde essas informações não eram visíveis. Até hoje, ainda analiso os planos que as equipes fazem, para ter uma noção do que está acontecendo fora da minha pequena bolha.
+
+Por fim, permitir que qualquer pessoa participe é uma parte fundamental para manter um padrão de engenharia consistente em toda a organização. Na Uber, tenho visto vários casos de pessoas de um lado da organização perceberem que outra equipe do outro lado da organização está planejando fazer algo semelhante ao que fizeram, mas com uma abordagem muito diferente. Por exemplo, uma equipe dos EUA que está construindo um novo recurso pode não ter considerado outras partes do mundo e uma equipe na Índia apontando lacunas na sua abordagem de localização. A transparência, o autoequilíbrio e a autocorreção das equipes acontecem com bastante naturalidade.
+
+## Adaptando o processo por meio de iteração
+
+Na Uber, um processo descrito aqui tem sido usado desde os primeiros anos. Os detalhes de como esse processo de planejamento e revisão funcionou foram refinados à medida que a empresa crescia e amadurecia. O que começou como um e-mail para cada engenheiro se transformou em listas de e-mail por domínio (backend, mobile, web) e modelos criados por engenheiros para ajudar a transmitir informações de uma forma mais consistente. À medida que a empresa cresce e conta com milhares de engenheiros, mais ferramentas estão sendo construídas para tornar o processo de pesquisa e aprovação ainda mais fácil.
+
+Uma parte interessante da iteração que vi é a evolução dos modelos. As pessoas que analisam muitas propostas de engenharia muitas vezes têm o mesmo tipo de perguntas. Perguntas como "_Qual é a motivação para fazer este trabalho?_" ou "_Como isso será testado?_" ou "_Serão feitas alterações na arquitetura aqui?_" eram perguntas muito comuns. Vendo a repetição deles, os engenheiros criaram modelos que são continuamente atualizados para facilitar a leitura e a escrita desses planos. Para dar um exemplo, foi assim que os modelos de backend e frontend (móvel/web) evoluíram há cerca de um ano, desde quando mudamos para modelos gerados:
+
+**Processo interno**
+
+- Lista de aprovadores
+- Resumo (sobre o que é o projeto?)
+- Mudanças de arquitetura
+- SLAs de serviço
+- Dependências de serviço
+- -Carregar e carregar teste de performance
+- Preocupações com vários data centers
+- Considerações de segurança
+- Teste e sair da cama
+- Métricas e monitoramento
+- Considerações sobre suporte ao cliente
+
+**Móvel/Web**
+
+- Lista de aprovadores
+- Resumo (sobre o que é o projeto?)
+- IU e interface de usuário Experiência do usuário
+- Mudanças de arquitetura
+- Interações de rede detalhadas
+- Dependências da biblioteca
+- Preocupações com segurança
+- Teste e sair da cama
+- Análise
+- Considerações sobre suporte ao cliente
+- Acessibilidade
+
+Iterar e personalizar de acordo com as necessidades da equipe de engenharia é fundamental. No nosso caso, os modelos começaram a incluir coisas importantes que nos interessavam. Coisas como confiabilidade, escala, segurança. Na Uber, criamos muitos serviços menores, portanto, itens a serem considerados ao fazer isso - como testes de carga e desempenho ou SLAs - fazem parte desse domínio. Quando a acessibilidade se tornou um grande foco para dispositivos móveis, essa seção entrou no modelo. Você entendeu a ideia.
+
+## Um processo que escala
+
+Na Uber, chamamos esse processo de RFC - Request for Comments, dadas as muitas semelhanças que ele tem com o [processo de publicação de Request For Comments](https://en.wikipedia.org/wiki/Request_for_Comments?ref=blog.pragmaticengineer.com) em a comunidade tecnológica. O processo travou porque foi iniciado cedo – quando a equipe de engenharia era pequena – e ajudou a dimensionar o conhecimento e a eliminar silos, à medida que a empresa continuava crescendo rapidamente. Ele cresceu notavelmente bem, de dezenas de engenheiros até poucos milhares. Começando com alguns milhares de engenheiros, novos desafios surgem com esse tipo de processo, o que é um bom problema por si só.
+
+Para evitar que tudo isso seja excessivamente teórico, você pode ver nosso processo de RFC acontecer abertamente, verificando alguns de nossos projetos de código aberto, como [BaseUI](https://github.com/uber-web/baseui?ref=blog.pragmaticengineer.com). BaseUI é um sistema de design da web composto por componentes modernos, responsivos e vivos. Todas as RFCs são [publicadas e revisadas aqui](https://github.com/uber-web/baseui/commits/master/proposals?ref=blog.pragmaticengineer.com) e [aqui](https://github.com/uber-web/baseui/commits/master/rfcs?ref=blog.pragmaticengineer.com). O desenvolvimento só começa [após a aprovação da RFC](https://github.com/uber-web/baseui/projects/3?ref=blog.pragmaticengineer.com).
+
+![](https://blog.pragmaticengineer.com/content/images/2018/09/Screen-Shot-2018-09-29-at-9.42.43-PM.png)
+
+Então esse processo é exclusivo da Uber? Longe disso. Grandes empresas de tecnologia, como Google, Facebook, Microsoft ou Amazon, criaram algo que se assemelha a algum nível de processo RFC. O Google chama isso de documentos de design e aqui está uma boa visão geral [de como funciona](https://www.industrialempathy.com/posts/design-docs-at-google/?ref=blog.pragmaticengineer.com). Registros de decisões de arquitetura - [ADRs - Architecture Decision Record](https://github.com/joelparkerhenderson/architecture_decision_record?ref=blog.pragmaticengineer.com) - também são um bom formato para usar.
+
+A escala de quão completa deve ser a documentação, a quem os documentos são enviados, quão rigorosamente ela é revisada ou quão padronizada ela é em diferentes organizações é diferente para todas as empresas. Se você está em uma empresa de tecnologia onde o planejamento ainda é ad hoc, sem uma forma estruturada de registro/distribuição, uma das coisas que ajudará muito a escalar a engenharia é ter um tipo de processo RFC em vigor desde cedo. Experimente e repita como você faz isso. É assim que tudo sempre começa.
+
+--
+
+Eu, como uma pessoa experiente na área, falo que isso é uma das melhores práticas que você pode adotar em sua empresa, seja ela
+pequena, média ou grande. Acredito que isso é um dos pilares para que você consiga escalar sua empresa de forma saudável, sem
+quebrar a cultura e a qualidade do produto.
+
+O motivo de tudo isso ser bom, como o Gergely mencionou, é o fato de que mesmo membros sem experiência alguma de codificação e o
+básico de lógica de programação, conseguem ajudar e auxiliar no desenvolvimento daquela funcionalidade de maneira mais eficaz e
+direta, abrindo ainda mais o leque de open source, no caso da Kalify, e obtendo mais contribuições e melhorias para o projeto.

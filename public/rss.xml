@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>yagasaki.dev/Blog</title>
+        <link>http://yagasaki.dev/</link>
+        <description>I enjoy turning solutions into code. I'm a tech enthusiast and love staying up to date with all the latest cutting-edge features.</description>
+        <lastBuildDate>Fri, 11 Jul 2025 02:34:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Feed</generator>
+        <language>pt-br</language>
+        <image>
+            <title>yagasaki.dev/Blog</title>
+            <url>https://github.com/Yagasaki7K.png</url>
+            <link>http://yagasaki.dev/</link>
+        </image>
+        <copyright>© 2014 - 2024 Anderson "Yagasaki" Marlon</copyright>
+        <item>
+            <title><![CDATA[Construindo sua Operação SaaS do Zero]]></title>
+            <link>https://yagasaki.dev/article/construindo-sua-operacao-saas-do-zero</link>
+            <guid isPermaLink="false">construindo-sua-operacao-saas-do-zero</guid>
+            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Monolito, Microserviço e Serverless - Entenda as Diferenças de Forma Clara]]></title>
+            <link>https://yagasaki.dev/article/monolito-microservico-e-serverless-entenda-as-diferencas-de-forma-clara</link>
+            <guid isPermaLink="false">monolito-microservico-e-serverless-entenda-as-diferencas-de-forma-clara</guid>
+            <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TDD e DDD - Fundamentos Práticos para Desenvolvedores JS/TS]]></title>
+            <link>https://yagasaki.dev/article/tdd-e-ddd-fundamentos-praticos-para-desenvolvedores-js-ts</link>
+            <guid isPermaLink="false">tdd-e-ddd-fundamentos-praticos-para-desenvolvedores-js-ts</guid>
+            <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[O que é Developer Relations (DevRel)?]]></title>
+            <link>https://yagasaki.dev/article/o-que-e-developer-relations-dev-rel</link>
+            <guid isPermaLink="false">o-que-e-developer-relations-dev-rel</guid>
+            <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dominando REST de Verdade - O Guia Rápido que Todo Dev Precisa Salvar]]></title>
+            <link>https://yagasaki.dev/article/dominando-rest-de-verdade-o-guia-rapido-que-todo-dev-precisa-salvar</link>
+            <guid isPermaLink="false">dominando-rest-de-verdade-o-guia-rapido-que-todo-dev-precisa-salvar</guid>
+            <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Configurando o SEO do Head com Next.js]]></title>
+            <link>https://yagasaki.dev/article/configurando-o-seo-do-head-com-next-js</link>
+            <guid isPermaLink="false">configurando-o-seo-do-head-com-next-js</guid>
+            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Liberando espaço no WSL2]]></title>
+            <link>https://yagasaki.dev/article/liberando-espaco-no-wsl2</link>
+            <guid isPermaLink="false">liberando-espaco-no-wsl2</guid>
+            <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Como instalar o Ragnarok LATAM no Linux via Proton (usando Heroic)]]></title>
+            <link>https://yagasaki.dev/article/como-instalar-o-ragnarok-latam-no-linux-via-proton-usando-heroic</link>
+            <guid isPermaLink="false">como-instalar-o-ragnarok-latam-no-linux-via-proton-usando-heroic</guid>
+            <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Diferenças entre Ciência da Computação, Análise e Desenvolvimento de Sistemas e Engenharia de Software]]></title>
+            <link>https://yagasaki.dev/article/diferencas-entre-ciencia-da-computacao-analise-e-desenvolvimento-de-sistemas-e-engenharia-de-software</link>
+            <guid isPermaLink="false">diferencas-entre-ciencia-da-computacao-analise-e-desenvolvimento-de-sistemas-e-engenharia-de-software</guid>
+            <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[O que é liderança técnica, o famoso Tech Lead?]]></title>
+            <link>https://yagasaki.dev/article/o-que-e-lideranca-tecnica-o-famoso-tech-lead</link>
+            <guid isPermaLink="false">o-que-e-lideranca-tecnica-o-famoso-tech-lead</guid>
+            <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China lança modelo de IA que supera OpenAI, DeepSeek e Meta]]></title>
+            <link>https://yagasaki.dev/article/china-lanca-modelo-de-ia-que-supera-open-ai-deep-seek-e-meta</link>
+            <guid isPermaLink="false">china-lanca-modelo-de-ia-que-supera-open-ai-deep-seek-e-meta</guid>
+            <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aprendendo a criar repositórios com WSL e comandos básicos]]></title>
+            <link>https://yagasaki.dev/article/aprendendo-a-criar-repositorios-com-wsl-e-comandos-basicos</link>
+            <guid isPermaLink="false">aprendendo-a-criar-repositorios-com-wsl-e-comandos-basicos</guid>
+            <pubDate>Sun, 09 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DeepSeek-R1 e o impacto que seu lançamento causou no mercado]]></title>
+            <link>https://yagasaki.dev/article/deep-seek-r1-e-o-impacto-que-seu-lançamento-causou-no-mercado</link>
+            <guid isPermaLink="false">deep-seek-r1-e-o-impacto-que-seu-lançamento-causou-no-mercado</guid>
+            <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hugging Face facilita para desenvolvedores rodarem modelos de IA em nuvens de terceiros]]></title>
+            <link>https://yagasaki.dev/article/hugging-face-facilita-para-desenvolvedores-rodarem-modelos-de-ia-em-nuvens-de-terceiros</link>
+            <guid isPermaLink="false">hugging-face-facilita-para-desenvolvedores-rodarem-modelos-de-ia-em-nuvens-de-terceiros</guid>
+            <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Como mover o WSL para outra unidade do disco]]></title>
+            <link>https://yagasaki.dev/article/como-mover-o-wsl-para-outra-unidade-do-disco</link>
+            <guid isPermaLink="false">como-mover-o-wsl-para-outra-unidade-do-disco</guid>
+            <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Utilizando CSS-in-JS em componentes dinâmicos da aplicação]]></title>
+            <link>https://yagasaki.dev/article/utilizando-css-in-js-em-componentes-dinamicos-da-aplicacao</link>
+            <guid isPermaLink="false">utilizando-css-in-js-em-componentes-dinamicos-da-aplicacao</guid>
+            <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Desbloqueie o modo Ultra Security do seu Windows]]></title>
+            <link>https://yagasaki.dev/article/desbloqueie-o-modo-ultra-security</link>
+            <guid isPermaLink="false">desbloqueie-o-modo-ultra-security</guid>
+            <pubDate>Sat, 28 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Twitter e Cloudflare - Entenda tudo que está acontecendo, aspectos técnicos e polêmicas]]></title>
+            <link>https://yagasaki.dev/article/twitter-e-cloudflare-entenda-tudo-que-esta-acontecendo-aspectos-tecnicos-e-polemicas</link>
+            <guid isPermaLink="false">twitter-e-cloudflare-entenda-tudo-que-esta-acontecendo-aspectos-tecnicos-e-polemicas</guid>
+            <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Você sabe o que são os hooks do React? Veja os principais e entenda-os de uma vez]]></title>
+            <link>https://yagasaki.dev/article/os-principais-hooks-do-react</link>
+            <guid isPermaLink="false">os-principais-hooks-do-react</guid>
+            <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Primeiros Passos na línguagem GO - Completo]]></title>
+            <link>https://yagasaki.dev/article/primeiros-passos-na-linguagem-go</link>
+            <guid isPermaLink="false">primeiros-passos-na-linguagem-go</guid>
+            <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Entenda Programação Orientada a Objetos de Maneira Simplificada (POO)]]></title>
+            <link>https://yagasaki.dev/article/entenda-programacao-orientada-a-objetos-de-maneira-simplificada</link>
+            <guid isPermaLink="false">entenda-programacao-orientada-a-objetos-de-maneira-simplificada</guid>
+            <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uma Coisa Que Nunca Te Explicaram Sobre TypeScript]]></title>
+            <link>https://yagasaki.dev/article/uma-coisa-que-nunca-te-explicaram-sobre-typescript</link>
+            <guid isPermaLink="false">uma-coisa-que-nunca-te-explicaram-sobre-typescript</guid>
+            <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Como usar o Redis para contar acessos em páginas estáticas]]></title>
+            <link>https://yagasaki.dev/article/como-usar-redis-para-contar-acessos</link>
+            <guid isPermaLink="false">como-usar-redis-para-contar-acessos</guid>
+            <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aprenda a instalar e usar o Obsidian no WSL]]></title>
+            <link>https://yagasaki.dev/article/instalando-obsidian-no-wsl</link>
+            <guid isPermaLink="false">instalando-obsidian-no-wsl</guid>
+            <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aprenda a instalar e usar o Docker no WSL de uma vez]]></title>
+            <link>https://yagasaki.dev/article/instalando-docker-no-wsl</link>
+            <guid isPermaLink="false">instalando-docker-no-wsl</guid>
+            <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NextJS vs React – Uma comparação para o Frontend]]></title>
+            <link>https://yagasaki.dev/article/next-vs-react-uma-comparacao-para-o-frontend</link>
+            <guid isPermaLink="false">next-vs-react-uma-comparacao-para-o-frontend</guid>
+            <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Como atualizar seu README do Github com as últimas publicações de Blog ou Dev.to]]></title>
+            <link>https://yagasaki.dev/article/atualizando-readme-com-ultimos-posts</link>
+            <guid isPermaLink="false">atualizando-readme-com-ultimos-posts</guid>
+            <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fazendo deploy da sua aplicação Web na Vercel]]></title>
+            <link>https://yagasaki.dev/article/fazendo-deploy-na-vercel</link>
+            <guid isPermaLink="false">fazendo-deploy-na-vercel</guid>
+            <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Análise do Arc Browser, meu substituto do Chrome]]></title>
+            <link>https://yagasaki.dev/article/analisando-arc-browser</link>
+            <guid isPermaLink="false">analisando-arc-browser</guid>
+            <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TypeScript - Types vs. Interfaces e qual usar escolher no próximo projeto?]]></title>
+            <link>https://yagasaki.dev/article/typescript-types-e-interfaces-e-qual-usar</link>
+            <guid isPermaLink="false">typescript-types-e-interfaces-e-qual-usar</guid>
+            <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[O que é Lazy Loading e para que serve?]]></title>
+            <link>https://yagasaki.dev/article/o-que-e-lazy-loading</link>
+            <guid isPermaLink="false">o-que-e-lazy-loading</guid>
+            <pubDate>Sat, 04 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Análise do Playbook de Alekson Fortes]]></title>
+            <link>https://yagasaki.dev/article/analise-do-playbook-de-alekson-fortes</link>
+            <guid isPermaLink="false">analise-do-playbook-de-alekson-fortes</guid>
+            <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Playbook do Desenvolvimento Profissional Internacional]]></title>
+            <link>https://yagasaki.dev/article/playbook-do-desenvolvimento-profissional-internacional</link>
+            <guid isPermaLink="false">playbook-do-desenvolvimento-profissional-internacional</guid>
+            <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Como instalar o Windows Subsystem for Linux (WSL)]]></title>
+            <link>https://yagasaki.dev/article/como-instalar-o-wsl</link>
+            <guid isPermaLink="false">como-instalar-o-wsl</guid>
+            <pubDate>Sat, 20 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simplificando a validação de dados com Zod]]></title>
+            <link>https://yagasaki.dev/article/simplificando-a-vida-com-zod</link>
+            <guid isPermaLink="false">simplificando-a-vida-com-zod</guid>
+            <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Conheça o meu bun/yarn commit e facilite a sua vida]]></title>
+            <link>https://yagasaki.dev/article/bun-yarn-commit</link>
+            <guid isPermaLink="false">bun-yarn-commit</guid>
+            <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Storybook - Como usar e os primeiros passos]]></title>
+            <link>https://yagasaki.dev/article/storybook-primeiros-passos</link>
+            <guid isPermaLink="false">storybook-primeiros-passos</guid>
+            <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Evento da Rocketseat e o uso do Bun]]></title>
+            <link>https://yagasaki.dev/article/minha-experiencia-com-bun</link>
+            <guid isPermaLink="false">minha-experiencia-com-bun</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Como criar um blog usando Github Pages + Obsidian + Quartz]]></title>
+            <link>https://yagasaki.dev/article/como-criar-seu-blog</link>
+            <guid isPermaLink="false">como-criar-seu-blog</guid>
+            <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Notificação automática da Twitch para o Discord]]></title>
+            <link>https://yagasaki.dev/article/notificacao-automatica-twitch</link>
+            <guid isPermaLink="false">notificacao-automatica-twitch</guid>
+            <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cultivar a Semente ou usar um Kit de Ferramentas?]]></title>
+            <link>https://yagasaki.dev/article/cultivar-a-semente-ou-usar-um-kit-de-ferramentas</link>
+            <guid isPermaLink="false">cultivar-a-semente-ou-usar-um-kit-de-ferramentas</guid>
+            <pubDate>Sat, 16 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Evento do NodeBR em Campinas - Frontend Universe]]></title>
+            <link>https://yagasaki.dev/article/nodebr-e-ifood-em-campinas</link>
+            <guid isPermaLink="false">nodebr-e-ifood-em-campinas</guid>
+            <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Curso de Introdução e Contribuição ao Código Aberto]]></title>
+            <link>https://yagasaki.dev/article/introducao-ao-codigo-aberto</link>
+            <guid isPermaLink="false">introducao-ao-codigo-aberto</guid>
+            <pubDate>Sat, 17 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Desvendando o NestJS, uma jornada para iniciantes]]></title>
+            <link>https://yagasaki.dev/article/desvendando-o-nest-js-uma-jornada-para-iniciantes</link>
+            <guid isPermaLink="false">desvendando-o-nest-js-uma-jornada-para-iniciantes</guid>
+            <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kombat Taekwondo Referee Siminar Brazil, Seminário de Desenvolvimento de Árbitros]]></title>
+            <link>https://yagasaki.dev/article/curso-de-kombat-taekwondo</link>
+            <guid isPermaLink="false">curso-de-kombat-taekwondo</guid>
+            <pubDate>Sat, 20 Jan 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dimensionando equipes de engenharia por meio de RFCs: anotando as coisas]]></title>
+            <link>https://yagasaki.dev/article/rfc-method</link>
+            <guid isPermaLink="false">rfc-method</guid>
+            <pubDate>Sun, 17 Dec 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RestAPI vs GraphQL - Prós, Contras e Qual Usar?]]></title>
+            <link>https://yagasaki.dev/article/restapi-vs-graphql</link>
+            <guid isPermaLink="false">restapi-vs-graphql</guid>
+            <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Taekwondo - Eu me tornei faixa preta]]></title>
+            <link>https://yagasaki.dev/article/taekwondo-black-belt</link>
+            <guid isPermaLink="false">taekwondo-black-belt</guid>
+            <pubDate>Sat, 09 Dec 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Como posso aprender programação em 2024]]></title>
+            <link>https://yagasaki.dev/article/como-posso-aprender-programacao</link>
+            <guid isPermaLink="false">como-posso-aprender-programacao</guid>
+            <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frequently Asked Questions]]></title>
+            <link>https://yagasaki.dev/article/faq</link>
+            <guid isPermaLink="false">faq</guid>
+            <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Primeiros passos com Jest, framework de teste]]></title>
+            <link>https://yagasaki.dev/article/primeiro-passos-jest</link>
+            <guid isPermaLink="false">primeiro-passos-jest</guid>
+            <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bun, o compilador JavaScript mais rápido do mundo é lançado oficialmente]]></title>
+            <link>https://yagasaki.dev/article/bun-e-sua-versao</link>
+            <guid isPermaLink="false">bun-e-sua-versao</guid>
+            <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ContextAPI - Como criar, como usar e como alimentar para iniciantes]]></title>
+            <link>https://yagasaki.dev/article/descomplicando-context-react</link>
+            <guid isPermaLink="false">descomplicando-context-react</guid>
+            <pubDate>Tue, 05 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Guia Detalhado - Configuração do Rocketchat no Azure com Funcionalidades Avançadas]]></title>
+            <link>https://yagasaki.dev/article/guia-detalhado-rocketchat</link>
+            <guid isPermaLink="false">guia-detalhado-rocketchat</guid>
+            <pubDate>Wed, 30 Aug 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Guia de Comandos Rocketchat para Iniciantes]]></title>
+            <link>https://yagasaki.dev/article/rocketchat-comandos-uteis</link>
+            <guid isPermaLink="false">rocketchat-comandos-uteis</guid>
+            <pubDate>Sun, 27 Aug 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Integrando seu chat com o Rocketchat Omnichannel]]></title>
+            <link>https://yagasaki.dev/article/integrando-rocketchat</link>
+            <guid isPermaLink="false">integrando-rocketchat</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Instalando o ZSH e Oh My ZSH no WSL Ubuntu]]></title>
+            <link>https://yagasaki.dev/article/instalando-oh-my-zsh</link>
+            <guid isPermaLink="false">instalando-oh-my-zsh</guid>
+            <pubDate>Mon, 03 Jul 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Como usar o ChatGPT como uma forma de terapia virtual]]></title>
+            <link>https://yagasaki.dev/article/terapia</link>
+            <guid isPermaLink="false">terapia</guid>
+            <pubDate>Mon, 05 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Entendendo o que é uma API e como ela funciona para iniciantes]]></title>
+            <link>https://yagasaki.dev/article/api-para-iniciantes</link>
+            <guid isPermaLink="false">api-para-iniciantes</guid>
+            <pubDate>Mon, 29 May 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apresentação de Projetos e Primeiros Passos com o GitHub Pages]]></title>
+            <link>https://yagasaki.dev/article/github-pages</link>
+            <guid isPermaLink="false">github-pages</guid>
+            <pubDate>Mon, 29 May 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[O mínimo que você precisa saber para iniciar um projeto em TypeScript]]></title>
+            <link>https://yagasaki.dev/article/typescript</link>
+            <guid isPermaLink="false">typescript</guid>
+            <pubDate>Tue, 25 Apr 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Como dar update no NodeJS - um tutorial fácil e rápido]]></title>
+            <link>https://yagasaki.dev/article/upgradenode</link>
+            <guid isPermaLink="false">upgradenode</guid>
+            <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tudo mudou para os desenvolvedores em React.js]]></title>
+            <link>https://yagasaki.dev/article/reactcra</link>
+            <guid isPermaLink="false">reactcra</guid>
+            <pubDate>Tue, 18 Apr 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Como contribuir para projetos de código aberto – um guia para iniciantes]]></title>
+            <link>https://yagasaki.dev/article/open-source</link>
+            <guid isPermaLink="false">open-source</guid>
+            <pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Como transformar seu website em um Progressive Web Application (PWA)]]></title>
+            <link>https://yagasaki.dev/article/pwa</link>
+            <guid isPermaLink="false">pwa</guid>
+            <pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introdução ao Git e GitHub para iniciantes]]></title>
+            <link>https://yagasaki.dev/article/git-github</link>
+            <guid isPermaLink="false">git-github</guid>
+            <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Como usar o uTorrent para iniciantes]]></title>
+            <link>https://yagasaki.dev/article/torrents-para-iniciantes</link>
+            <guid isPermaLink="false">torrents-para-iniciantes</guid>
+            <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Recebendo mensagens de commit no Discord (Webhook)]]></title>
+            <link>https://yagasaki.dev/article/discord-webhook</link>
+            <guid isPermaLink="false">discord-webhook</guid>
+            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rodando Docker no Windows sem Docker Desktop]]></title>
+            <link>https://yagasaki.dev/article/docker-desktop</link>
+            <guid isPermaLink="false">docker-desktop</guid>
+            <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Montando um perfil interessante e exemplar no GitHub]]></title>
+            <link>https://yagasaki.dev/article/perfil-github</link>
+            <guid isPermaLink="false">perfil-github</guid>
+            <pubDate>Fri, 27 Jan 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quando decidir se é melhor trabalhar em um monorepo ou repositórios individuais?]]></title>
+            <link>https://yagasaki.dev/article/monorepo</link>
+            <guid isPermaLink="false">monorepo</guid>
+            <pubDate>Fri, 30 Dec 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Removendo o Twitter Analytics do Feed]]></title>
+            <link>https://yagasaki.dev/article/twitter-analytics</link>
+            <guid isPermaLink="false">twitter-analytics</guid>
+            <pubDate>Wed, 28 Dec 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dark Mode - LocalStorage, Scheme, Button Default ou Local Time?]]></title>
+            <link>https://yagasaki.dev/article/darkmode</link>
+            <guid isPermaLink="false">darkmode</guid>
+            <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Testes Unitários - Como e quando usar para iniciantes]]></title>
+            <link>https://yagasaki.dev/article/unit-test</link>
+            <guid isPermaLink="false">unit-test</guid>
+            <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3º Lugar no Hackathon pela AMBEV em parceria com a Shawee]]></title>
+            <link>https://yagasaki.dev/article/hackathon-ambev</link>
+            <guid isPermaLink="false">hackathon-ambev</guid>
+            <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Email de Zeno Rocha]]></title>
+            <link>https://yagasaki.dev/article/reactemail</link>
+            <guid isPermaLink="false">reactemail</guid>
+            <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ilustração vs Inteligência Artificial]]></title>
+            <link>https://yagasaki.dev/article/artificialart</link>
+            <guid isPermaLink="false">artificialart</guid>
+            <pubDate>Fri, 02 Dec 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Github Desktop vs WSL]]></title>
+            <link>https://yagasaki.dev/article/githubvswsl</link>
+            <guid isPermaLink="false">githubvswsl</guid>
+            <pubDate>Tue, 18 Oct 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Enviando um E-mail Usando Next.js ou React.js com Fetch]]></title>
+            <link>https://yagasaki.dev/article/enviando-email-com-fetch</link>
+            <guid isPermaLink="false">enviando-email-com-fetch</guid>
+            <pubDate>Mon, 15 Aug 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[14 Hábitos de Desenvolvedores Altamente Produtivos]]></title>
+            <link>https://yagasaki.dev/article/habitos-altamente-produtivos</link>
+            <guid isPermaLink="false">habitos-altamente-produtivos</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Conheça sobre Developer Relations (#DevRel)]]></title>
+            <link>https://yagasaki.dev/article/conheca-sobre-devrel</link>
+            <guid isPermaLink="false">conheca-sobre-devrel</guid>
+            <pubDate>Fri, 18 Mar 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Front-end, Back-end, Fullstack, o que é e para onde ir?]]></title>
+            <link>https://yagasaki.dev/article/frontbackfull</link>
+            <guid isPermaLink="false">frontbackfull</guid>
+            <pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Minha Experiência com o Desenvolvimento do Blog com NextJS]]></title>
+            <link>https://yagasaki.dev/article/blog-com-nextjs</link>
+            <guid isPermaLink="false">blog-com-nextjs</guid>
+            <pubDate>Sat, 18 Dec 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Como Conseguir Experiência Sendo Júnior/Iniciante]]></title>
+            <link>https://yagasaki.dev/article/conseguir-experiencia-sendo-junior</link>
+            <guid isPermaLink="false">conseguir-experiencia-sendo-junior</guid>
+            <pubDate>Sat, 18 Dec 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Primeiramente, Deixe-me Apresentar: Eu Sou Anderson]]></title>
+            <link>https://yagasaki.dev/article/conheca-yagasaki</link>
+            <guid isPermaLink="false">conheca-yagasaki</guid>
+            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Marketing Talks #CPS01 foi marcado por clima informal e conteúdo direto ao ponto]]></title>
+            <link>https://yagasaki.dev/article/meetup-latorre</link>
+            <guid isPermaLink="false">meetup-latorre</guid>
+            <pubDate>Fri, 30 Aug 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aplicativo que cria clone virtual do usuário faz sucesso no Brasil]]></title>
+            <link>https://yagasaki.dev/article/entrevista-replika</link>
+            <guid isPermaLink="false">entrevista-replika</guid>
+            <pubDate>Wed, 23 Aug 2017 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
