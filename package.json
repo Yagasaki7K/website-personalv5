@@ -34,7 +34,7 @@
         "@types/node": "^20.19.43",
         "@types/react": "^19.3.3",
         "@types/react-dom": "^19.3.0",
-        "baseline-browser-mapping": "^2.11.39",
+        "baseline-browser-mapping": "^2.11.40",
         "typescript": "^5.9.3"
     }
 }
